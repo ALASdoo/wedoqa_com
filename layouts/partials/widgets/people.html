@@ -1,0 +1,45 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+<div class="row justify-content-center people-widget">
+  {{ with $page.Title }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ with $page.Content }}
+  <div class="col-md-12">
+    <p>{{ . }}</p>
+  </div>
+  {{ end }}
+
+  {{ range $page.Params.user_groups }}
+  <div class="col-md-12">
+    <h2 class="mb-4">{{ . | markdownify }}</h2>
+  </div>
+
+  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+  {{ range $query.Reverse }}
+
+  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+  {{/* Get link to user's profile page. */}}
+  {{ $link := "" }}
+  {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+    {{ $link = .RelPermalink }}
+  {{ end }}
+  <div class="col-12 col-sm-auto people-person">
+
+    <img class="portrait" src="{{ .Params.avatar_image }}" alt="Avatar">
+
+    <div class="portrait-title">
+      <h2>{{ .Params.name }}</h2>
+      {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
+      {{ with .Params.interests }}<p class="people-interests">{{ delimit . ", " | markdownify | emojify }}</p>{{ end }}
+    </div>
+  </div>
+
+  {{ end }}
+  {{ end }}
+</div>
