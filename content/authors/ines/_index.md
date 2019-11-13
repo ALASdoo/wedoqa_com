@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Akos Szabo
-avatar_image: "img/team/akos.jpg"
+name: Ines Prlainovic
+avatar_image: "img/team/ines.jpg"
 # Username (this should match the folder name)
 authors:
-- akos
+- ines
 # resume download button
 btn:
 - url : ""
