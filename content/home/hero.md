@@ -39,10 +39,10 @@ hero_media = "hero.jpg"
 
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contact us"
 
 +++
 
-## WeDoQA: Quality Assurance and Project Management
+## WeDoQA: Because Quality Matters!
 
 We specialize in Quality Assurance and Project Management and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem
