@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Milica Lazic
-avatar_image: "img/team/milica.jpg"
+name: Marco Lempen
+avatar_image: "img/team/marco.jpg"
 # Username (this should match the folder name)
 authors:
-- milica
+- marco
 # resume download button
 btn:
 - url : ""

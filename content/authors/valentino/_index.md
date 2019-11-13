@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Valentino
+name: Valentino Milanov
 avatar_image: "img/team/valentino.jpg"
 # Username (this should match the folder name)
 authors:
