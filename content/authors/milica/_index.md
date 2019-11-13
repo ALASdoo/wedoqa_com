@@ -14,7 +14,7 @@ btn:
 superuser: false
 
 # Role/position
-role: Sales Consultant
+role: Back-End Developer
 
 # Organizations/Affiliations
 organizations:
