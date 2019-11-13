@@ -14,7 +14,7 @@ btn:
 superuser: false
 
 # Role/position
-role: Automated QA Engineer
+role: Back-End Developer
 
 # Organizations/Affiliations
 organizations:
@@ -68,5 +68,5 @@ interests:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Automated QA Engineers
+- Developers
 ---
