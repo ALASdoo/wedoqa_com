@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "People"
+title = "Team"
 subtitle = ""
 
 # List user groups to display.
@@ -15,3 +15,5 @@ user_groups = ["Management",
                "Automated QA Engineers",
                "Developers"]
 +++
+
+We are team of people rich in knowledge, expertise, and dedication. We work together to achieve unmatched quality that makes WeDoQA exemplary in excellence and not just mindless success. WeDoQA boasts a team that shares its commitment to quality. The small yet professional team of individuals is passionate about what they do and not just some developer robots. Since 1989, we take pride in comprising of a team that has time and again proven its unmatched potential.

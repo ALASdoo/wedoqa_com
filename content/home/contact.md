@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
 title = "Contact"
-subtitle = "Connect with me"
+subtitle = ""
 
 # Automatically link email and phone?
 autolink = true
@@ -18,3 +18,4 @@ autolink = true
 email_form = 2
 +++
 
+Want to know more about WeDoQA? Contact us to know how we can help you in making sure your current endeavors in business is a stunning success.
