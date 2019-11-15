@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Botany nerd
+- Tango milonguera
+- Figure skating fanatic
 
 # education:
 #   courses:

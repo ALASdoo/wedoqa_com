@@ -25,7 +25,12 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Robot fanatic
+- Mechatronics engineer
+- Arduino expert
+- Guitar player
+- Biker
+- Chess enthusiast
 
 # education:
 #   courses:

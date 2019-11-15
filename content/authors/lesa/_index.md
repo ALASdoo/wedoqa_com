@@ -25,7 +25,10 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- FPL manager
+- Nature and basketball lover
+- Biker and hiker
+- IT enthusiast
 
 # education:
 #   courses:

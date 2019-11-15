@@ -25,7 +25,10 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Social Media addict
+- Thriller bookworm
+- Coffee Maniac
+- Nature lover
 
 # education:
 #   courses:

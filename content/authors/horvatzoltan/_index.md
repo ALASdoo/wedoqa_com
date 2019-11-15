@@ -25,7 +25,10 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- (e-)sports fan
+- Proud owner of a samoyed
+- Passionate about cooking
+- Physicist by nature, programmer by choice
 
 # education:
 #   courses:

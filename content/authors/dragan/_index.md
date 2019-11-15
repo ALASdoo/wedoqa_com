@@ -25,7 +25,10 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Music and Music Festivals addict
+- Video-gamer
+- Traveler
+- Sociologist wanna be
 
 # education:
 #   courses:

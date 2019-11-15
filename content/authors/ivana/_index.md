@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- HOG games addict
+- Travel maniac
+- Ping-pong guru
 
 # education:
 #   courses:

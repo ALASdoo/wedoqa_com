@@ -25,7 +25,6 @@ organizations:
 # bio:
 
 interests:
-- Front-end developer
 - JS Ninja
 - Sci-fi and Fantasy bookworm
 - Biker Hiker Camper

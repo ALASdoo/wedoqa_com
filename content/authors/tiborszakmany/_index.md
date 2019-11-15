@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Master of Plone
+- Bug slayer
+- The first of his name
 
 # education:
 #   courses:
