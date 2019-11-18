@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Milonguero
+- Hiker
+- Biker
 
 # education:
 #   courses:
