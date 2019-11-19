@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Zoltan Horvat
-avatar_image: "img/team/zoltanhorvat.jpg"
+avatar_image: "img/team/horvatzoltan.jpg"
 # Username (this should match the folder name)
 authors:
 - zoltanhorvat
