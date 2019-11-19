@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Net C# developer
+- I am constantly trying to improve myself
+- Big fan of martial arts and love watching good movies in free time
 
 # education:
 #   courses:

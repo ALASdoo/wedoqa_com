@@ -70,4 +70,5 @@ date_format = "Jan 2006"
 
 +++
 
-Our services include working with different methodologies like Agile, Scrumm, Traditional. We adapt to any standard or custom methodology used at the partner's end. We offer QA lead, Project management, QA and PM Consulting. We are familiar with following issue tracking systems: Jira, Trac, Team Foundation Server, Asana, Basecamp, Unfuddle, Assembla, Bugzilla, Mantis, Lighthouse, ActiveColab, Fogbugz... We can use any other issue tracker/task manager out there.
+Our company offers various services: QA lead, Quality Assurance, Project Management, and Project Management Consulting. We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our core principles are versatility, reliability, and privacy of customer data.
+Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Some of the task managers we expertise in are Jira, Trac, Team Foundation Server, Asana, Basecamp, Unfuddle, Assembla, Bugzilla, Mantis, Lighthouse, ActiveColab, Fogbugz, etc.

@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Python sage 
+- Basketball legend
+- Hiking lover
 
 # education:
 #   courses:

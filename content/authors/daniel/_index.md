@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Assisted karate coach for children
+- Hiker
+- Motobiker
 
 # education:
 #   courses:

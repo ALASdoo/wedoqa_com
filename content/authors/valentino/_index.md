@@ -25,7 +25,11 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Juventus fan
+- Batman fanatic
+- Biker
+- Karaoke Master
+- Always seeking for new challenges
 
 # education:
 #   courses:

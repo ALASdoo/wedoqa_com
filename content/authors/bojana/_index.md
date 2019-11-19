@@ -25,7 +25,8 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- >
+  "f u cn rd ths, u cn gt a gd jb n sftwr tstng." - Anonymus
 
 # education:
 #   courses:

@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Angular Developer
+- Coffee Lover
+- Yogi Enthusiast
 
 # education:
 #   courses:

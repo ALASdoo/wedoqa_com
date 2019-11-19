@@ -25,7 +25,10 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- .NET Backend professional
+- Gym addict
+- Health enthusiast
+- Believer in hard work
 
 # education:
 #   courses:
