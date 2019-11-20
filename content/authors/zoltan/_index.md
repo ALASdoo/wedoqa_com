@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Biker
+- E-sports fan
+- Gamer
 
 # education:
 #   courses:

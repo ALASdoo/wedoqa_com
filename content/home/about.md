@@ -9,15 +9,11 @@ title = ""
 +++
 ## What sets us apart
 
-* Dedicated people and not the usual farm of workers
-* Amazing communication skills
-* Weekly brainstorming sessions where we include persons who are not part of the project to provide valuable input
-* Suggestions on user interface improvements based on usability and user experience principals
-* Employ non IT personnel to get a feedback on how regular users see the product and what problems they may face while using it
-* Jumping into the project at any phase of the product development lifecycle
-* We improve the product quality and help the software development stay on track
-* We provide free hosted issue tracker for our clients
-* Several years of experience working with Startups
+Our team consist of skilled and dedicated people with extensive domain of knowledge. We are continuously focused on innovation. What really set us apart are weekly brainstorming sessions where we include persons who are not part of the project to provide valuable input.
+We also employ non IT personnel to get a feedback on how regular users see the product and what problems they may face while using it, to prevent a non user-friendly experience and rough start with end users. Profound testing is our imperative!
+We can jump into the project at any phase of the product development lifecycle, because our team has amazing communication skills. Our company has several years of experience working with Startup. 
+Improve the product quality with us and make sure that your software development stays on track.
+Free hosted tracker for our clients is provided!
 
 ## Our in house Selenium framework
 

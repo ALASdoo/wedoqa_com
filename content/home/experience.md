@@ -23,16 +23,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * Web based applications and sites
-  * Mobile application testing
-  * iPhone
-  * iPad
-  * Android phones and tablets
-  * Mac OS X, Windows and Linux based applications
-  * Cross browser testing
-  * Cross platform testing
-  * Working with all of the bug/task trackers out there
-  * Suggestions on how to improve the usability
+ * We do outsorce manual testing from the very begining of the project 
+ * Cross browser testing and cross platform testing is done here for any web based applications and sites and mobile applications 
+ * Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows and Linux environment
+ * We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing...
+ * We will suggest you how to enhance user experience and usability
+ * We constantly strive to improve our testing strategy to answer the expanding demands of IT business
   """
 
 [[experience]]
