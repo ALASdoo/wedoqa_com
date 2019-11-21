@@ -25,7 +25,11 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- .NET C# developer
+- Biker
+- Hiker
+- Hedonist
+- Just go with the flow
 
 # education:
 #   courses:
