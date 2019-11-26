@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-* We do outsource manual testing from the very beginning of the project
+* We do outsource manual testing from the beginning of the project
 * Cross-browser testing and cross-platform testing is done here for any web-based applications and sites and mobile applications
 * Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environment
 * We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing…
@@ -37,12 +37,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * Selenium
-  * Appium
-  * Test Complete
-  * Watir
-  * Watin
-  * Integrating automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl, Bromine...)
+  * To increase the speed of the testing process and coverage, we can implement test automation in a development flow at any time. 
+  * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, etc.
+  * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl, Bromine...)
   * Setting up the initial framework for automation
   * Load/Stress testing using Jmeter and Selenium for real user load simulation.
   """
@@ -53,15 +50,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * Atlassian JIRA
-  * Rally
-  * Trello
-  * Asana
-  * Github
-  * Gitlab
-  * Clubhouse
-  * TestRail
-  * Redmine
+  * Our project management process assures that your software development stays on track
+  * We are committed to providing innovative solutions through project management consulting
+  * Project management tools we use commonly include Atlassian JIRA, Rally, Trello, Asana, Github, Gitlab, Clunhouse, TestRail, Redmine
+  * Adaptability to various project management methodologies
+  * Our workflow usually implies Agile, Scrum, Kanban and Traditional methodologies
+  * Constantly tracking project status, milestones and success
   """
 
 +++
