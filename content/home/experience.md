@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 * Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environment
 * We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing…
 * We will suggest you how to enhance user experience and usability
-* We constantly strive to improve our testing strategy to answer the expanding demands of IT business
+* We always strive to improve our testing strategy to answer the expanding demands of IT business
   """
 
 [[experience]]
@@ -52,13 +52,14 @@ date_format = "Jan 2006"
   description = """
   * Our project management process assures that your software development stays on track
   * We are committed to providing innovative solutions through project management consulting
-  * Project management tools we use commonly include Atlassian JIRA, Rally, Trello, Asana, Github, Gitlab, Clunhouse, TestRail, Redmine
+  * Project management tools we use commonly include Atlassian JIRA, Rally, Trello, Asana, Github, Gitlab, Clubhouse, TestRail, Redmine
   * Adaptability to various project management methodologies
-  * Our workflow usually implies Agile, Scrum, Kanban and Traditional methodologies
-  * Constantly tracking project status, milestones and success
+  * Our workflow usually implies Agile, Scrum, Kanban, and Traditional methodologies
+  * Constantly tracking project status, milestones, and success
   """
 
 +++
 
-Our company offers various services: QA lead, Quality Assurance, Project Management, and Project Management Consulting. We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our core principles are versatility, reliability, and privacy of customer data.
-Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Some of the task managers we expertise in are Jira, Trac, Team Foundation Server, Asana, Basecamp, Unfuddle, Assembla, Bugzilla, Mantis, Lighthouse, ActiveColab, Fogbugz, etc.
+Our company's services include Quality Assurance, QA lead, Project Management, and Project Management Consulting. 
+
+We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Some of the task managers we expertise in are Jira, Trac, Team Foundation Server, Asana, Basecamp, Unfuddle, Assembla, Bugzilla, Mantis, Lighthouse, ActiveColab, Fogbugz, etc. Check our business domain:

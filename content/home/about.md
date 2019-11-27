@@ -9,9 +9,10 @@ title = ""
 +++
 ## What sets us apart
 
-Our team consists of skilled and dedicated people with an extensive domain of knowledge. We are continuously focused on innovation. What really sets us apart are weekly brainstorming sessions where we include persons who are not part of the project to provide valuable input.
-We also employ non-IT personnel to get feedback on how regular users see the product and what problems they may face while using it, to prevent a non-user-friendly experience and rough start with end-users. Profound testing is our imperative!
-We can jump into the project at any phase of the product development lifecycle because our team has amazing communication skills. Our company has several years of experience working with Startup. A free hosted tracker for our clients is provided!
+Our team consists of skilled and dedicated people with an extensive domain of knowledge. Our core principles are preciseness, reliability, and privacy of customer data. What really sets us apart are weekly brainstorming sessions where we include persons who are not part of the project to provide valuable input. We also employ non-IT personnel to get feedback on how regular users see the product and what problems they may face while using it, to prevent a non-user-friendly experience and rough start with end-users. Profound testing is imperative!
+
+We can jump into the project at any phase of the product development lifecycle because our team has amazing communication skills. Our company has several years of experience working with Startup. A free hosted tracker for our clients is provided.
+
 Improve the product quality with us and make sure that you get exactly what you need.
 
 ## Our in house Selenium framework
