@@ -38,10 +38,11 @@ date_format = "Jan 2006"
   location = ""
   description = """
   * To increase the speed of the testing process and coverage, we can implement test automation in a development flow at any time. 
-  * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, etc.
+  * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, Katalon etc.
   * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl, Bromine...)
   * Setting up the initial framework for automation
   * Load/Stress testing using Jmeter and Selenium for real user load simulation.
+  * We also work with Katalon - Selenium-based open-source tool, suitable for mobile, web and API testing; can be integrated with GitHub and Jira; supports multiple users working on the same project; has pragmatic reporting system and is frequently updated
   """
 
 [[experience]]

@@ -17,7 +17,7 @@ Improve the product quality with us and make sure that you get exactly what you 
 
 ## Our in house Selenium framework
 
-We provide commercial Selenium support as well as have our in house Selenium framework to quickly start up new projects without a need for a long setup time. We constantly improve and customize our Selenium framework for diverse types of projects in order to speed up test script writing and save valuable time. Here is what is currently supported: 
+We provide commercial Selenium support as well as have our in house Selenium framework to quickly start up new projects without a need for a long setup time. For more effective test maintenance, Page Object Structure design pattern is applied in our test automation process. We constantly improve and customize our Selenium framework for diverse types of projects in order to speed up test script writing and save valuable time. Here is what is currently supported: 
 
 * Java based application
 * Ant or Maven build and dependency management
