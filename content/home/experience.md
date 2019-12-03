@@ -24,9 +24,11 @@ date_format = "Jan 2006"
   location = ""
   description = """
 * We do outsource manual testing from the beginning of the project
-* Cross-browser testing and cross-platform testing is done here for any web-based applications and sites and mobile applications
+* Cross-browser testing and cross-platform testing is done here for any web-based applications, sites and mobile applications
 * Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environment
 * We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing…
+* We will guarantee that each function of software works as in the requirement specification
+* We will assure that a recent code change or program extension has not affected existing features
 * We will suggest you how to enhance user experience and usability
 * We always strive to improve our testing strategy to answer the expanding demands of IT business
   """
@@ -41,8 +43,8 @@ date_format = "Jan 2006"
   * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, Katalon etc.
   * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl, Bromine...)
   * Setting up the initial framework for automation
-  * Load/Stress testing using Jmeter and Selenium for real user load simulation.
-  * We also work with Katalon - Selenium-based open-source tool, suitable for mobile, web and API testing; can be integrated with GitHub and Jira; supports multiple users working on the same project; has pragmatic reporting system and is frequently updated
+  * Load/Stress testing using Jmeter and Selenium for real user load simulation
+  * We also use Katalon - open-source tool suitable for mobile, web and API testing; can be integrated with GitHub and Jira; supports multiple users working on the project; has pragmatic reporting system
   """
 
 [[experience]]
@@ -57,6 +59,7 @@ date_format = "Jan 2006"
   * Adaptability to various project management methodologies
   * Our workflow usually implies Agile, Scrum, Kanban, and Traditional methodologies
   * Constantly tracking project status, milestones, and success
+  * We write case studies to have a better insight into our projects
   """
 
 +++
