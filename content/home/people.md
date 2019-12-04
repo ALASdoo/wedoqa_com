@@ -16,4 +16,4 @@ user_groups = ["Management",
                "Developers"]
 +++
 
-We are team of people rich in knowledge, expertise, and dedication. We work together to achieve unmatched quality that makes WeDoQA exemplary in excellence and not just mindless success. WeDoQA boasts a team that shares its commitment to quality. The small yet professional team of individuals is passionate about what they do and not just some developer robots. Since 1989, we take pride in comprising of a team that has time and again proven its unmatched potential.
+We are a team of people rich in knowledge, expertise, and dedication. We work together to achieve unmatched quality that makes WeDoQA exemplary in excellence and not just mindless success. WeDoQA boasts a team that shares its commitment to quality. The small yet professional team of individuals is passionate about what they do and not just some developer robots. Since 1989, we take pride in comprising of a team that has time and again proven its unmatched potential.

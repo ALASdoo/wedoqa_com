@@ -25,9 +25,9 @@ date_format = "Jan 2006"
   description = """
 * We do outsource manual testing from the beginning of the project
 * Cross-browser testing and cross-platform testing is done here for any web-based applications, sites and mobile applications
-* Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environment
+* Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environments
 * We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing…
-* We will guarantee that each function of software works as in the requirement specification
+* We will guide the developers to make each function of software work as in the requirement specification
 * We will assure that a recent code change or program extension has not affected existing features
 * We will suggest you how to enhance user experience and usability
 * We always strive to improve our testing strategy to answer the expanding demands of IT business
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * To increase the speed of the testing process and coverage, we can implement test automation in a development flow at any time. 
+  * To increase the speed of the testing process and coverage, we can implement test automation in a development flow at any time.
   * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, Katalon etc.
-  * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl, Bromine...)
+  * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl...)
   * Setting up the initial framework for automation
   * Load/Stress testing using Jmeter and Selenium for real user load simulation
   * We also use Katalon - open-source tool suitable for mobile, web and API testing; can be integrated with GitHub and Jira; supports multiple users working on the project; has pragmatic reporting system
@@ -64,6 +64,6 @@ date_format = "Jan 2006"
 
 +++
 
-Our company's services include Quality Assurance, QA lead, Project Management, and Project Management Consulting. 
+Our company's services include Quality Assurance, QA lead, Project Management, and Project Management Consulting.
 
-We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Some of the task managers we expertise in are Jira, Trac, Team Foundation Server, Asana, Basecamp, Unfuddle, Assembla, Bugzilla, Mantis, Lighthouse, ActiveColab, Fogbugz, etc. Check our business domain:
+We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Check our business domain:
