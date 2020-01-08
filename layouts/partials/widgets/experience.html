@@ -14,11 +14,7 @@
   <div class="col-md-6 col-lg-4 mb-4">
     <div class="card rounded-0 border-0 shadow-sm experience">
       <div class="card-body rounded-0 border-0">
-        <h4 class="card-title exp-company my-0">
-          {{- with .company_url}}<a href="{{.}}" target="_blank"
-            rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
-        </h4>
-        <p class="card-title text-muted exp-title my-0">{{.title | markdownify | emojify}}</p>
+        <p class="card-title text-primary exp-title">{{.title | markdownify | emojify}}</p>
         <div class="text-muted exp-meta">
           {{with .location}}
           <span class="middot-divider"></span>
