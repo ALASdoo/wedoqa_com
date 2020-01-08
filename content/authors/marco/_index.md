@@ -25,7 +25,9 @@ organizations:
 # bio:
 
 interests:
-- TODO
+- Translate IT to human language
+- digitization is my DNA
+- loves innovation, new approaches
 
 # education:
 #   courses:

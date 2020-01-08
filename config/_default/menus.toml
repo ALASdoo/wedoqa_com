@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "What we offer"
+  name = "What we provide"
   url = "#experience"
   weight = 20
 
 [[main]]
-  name = "What sets us apart"
+  name = "The WeDoQA Difference"
   url = "#about"
   weight = 30
 

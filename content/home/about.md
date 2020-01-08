@@ -7,26 +7,27 @@ weight = 30  # Order that this section will appear in.
 
 title = ""
 +++
-## What sets us apart
+## The WeDoQA Difference
 
-Our team consists of skilled and dedicated people with an extensive domain of knowledge. Our core principles are preciseness, reliability, and privacy of customer data. What really sets us apart are weekly brainstorming sessions where we include persons who are not part of the project to provide valuable input. We also employ non-IT personnel to get feedback on how regular users see the product and what problems they may face while using it, to prevent a non-user-friendly experience and rough start with end-users. Profound testing is imperative!
-
-We can jump into the project at any phase of the product development lifecycle because our team has amazing communication skills. Our company has several years of experience working with Startups.
-
-Improve the product quality with us and make sure that you get exactly what you need.
+You have countless options of PM and QA providers to choose from, so you might be wondering what sets WeDoQA apart from the crowd. For starters, we pride ourselves in our Communication, Precision, Reliability, Consumer Privacy, and Uncompromised Quality.
+Our team is comprised of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non-IT input during weekly brainstorming sessions with everyday users who test your software. The insights they deliver take your project to the next level, ensuring an intuitive, user-friendly, and valuable product. This is where we really shine!
+We understand that project plans change which is why we can test or take over project management at every stage of the development cycle. We can start from scratch or jump in when you hit a rough patch. With our dedication to clear communication we know the questions to ask to hit the ground running.
+We work with start-ups on their proprietary software and apps, provide third-party testing for developers, help established corporations elevate their project outcomes, and consult and test any type of software to ensure quality, compliance, function, and positive user-experience.
+Last but certainly not least, we have an in-house Selenium framework which we discuss the benefits of below.
 
 ## Our in house Selenium framework
 
-We provide commercial Selenium support as well as have our in house Selenium framework to quickly start up new projects without a need for a long setup time. For more effective test maintenance, Page Object Structure design pattern is applied in our test automation process. We constantly improve and customize our Selenium framework for diverse types of projects in order to speed up test script writing and save valuable time. Here is what is currently supported:
+We provide commercial Selenium support but also have an in-house Selenium framework that empowers us to get your project up and running with speed and ease. To optimize testing, we implement the Page Object Model to automate our process.
+Our in-house framework is designed for a diverse range of projects. It empowers us to speed up script test writing saving valuable time. As an in-house framework, we are constantly customizing and improving its efficiency and function.
 
-* Java based application
+* Java-based application
 * Ant or Maven build and dependency management
 * TestNG or JUnit test frameworks
 * Parallel test run
-* Custom made and well tested wait methods
+* Custom made and well-tested wait methods
 * IE, Edge, Chrome and Firefox support
 * Customizable report generation
 * Screenshots and logging
 * UI verification against database or API
 * TestRail integration
-* Load testing using Amazon AWS, Jmeter and Selenium
+* Load testing using Amazon AWS, JMeter and Selenium

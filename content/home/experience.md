@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "What we offer"
+title = "What we provide"
 subtitle = ""
 
 # Date format for experience
@@ -23,14 +23,15 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-* We do outsource manual testing from the beginning of the project
-* Cross-browser testing and cross-platform testing is done here for any web-based applications, sites and mobile applications
-* Our team is up to date with iPhone, iPad, Android tablets, Mac OS X, Windows, and Linux environments
-* We perform all kinds of testing: Regression, Functional, Performance, Acceptance, UI/UX testing…
-* We will guide the developers to make each function of software work as in the requirement specification
-* We will assure that a recent code change or program extension has not affected existing features
-* We will suggest you how to enhance user experience and usability
-* We always strive to improve our testing strategy to answer the expanding demands of IT business
+  * Manual testing for web-based applications, websites, and mobile applications
+  * Catch bugs early on with our third-party testing for each phase of completion
+  * Cross-browser and cross-platform testing including iPhone, iPad, Android, MAC, Windows, Linux, and more
+  * Testing for Regression, Functional, Performance, Acceptance, Compliance, UI/UX testing, and more
+  * Advise developers on next-step fixes per project specifications
+  * Ensure code changes, program extensions, and software, app, or website updates don’t negatively impact features or performance
+  * Non-IT user testing to assess and enhance the user experience
+  * Testing for full project specs and region/industry compliance
+
   """
 
 [[experience]]
@@ -39,12 +40,14 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * To increase the speed of the testing process and coverage, we can implement test automation in a development flow at any time.
-  * Our team has a comprehensive knowledge of automation tools such as Selenium, Appium, Test Complete, Watir, WatIN, Katalon etc.
-  * We do integration of automated testing into Automated Continuous Integration servers (Hudson, Jenkins, CruiseControl...)
-  * Setting up the initial framework for automation
-  * Load/Stress testing using Jmeter and Selenium for real user load simulation
-  * We also use Katalon - open-source tool suitable for mobile, web and API testing; can be integrated with GitHub and Jira; supports multiple users working on the project; has pragmatic reporting system
+  * Automated testing for rapid turnaround and increased testing coverage
+  * Extensive knowledge of automated software testing tools including Selenium, Appium, Test Complete, Watir, WatIN, Katalon, and more
+  * Testing within Automated Continuous Integration Servers such as Hudson, Jenkins, CruiseControl and more
+  * Setup the initial framework for automation
+  * Load/stress testing using JMeter and Selenium real user load simulations
+  * Katalon testing for mobile, web, and API testing which supports multiple users, has pragmatic reporting, and can be integrated with GitHub and Jira
+  * Testing for full project specs and region/industry compliance
+
   """
 
 [[experience]]
@@ -53,17 +56,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   description = """
-  * Our project management process assures that your software development stays on track
-  * We are committed to providing innovative solutions through project management consulting
-  * Project management tools we use commonly include Atlassian JIRA, Rally, Trello, Asana, Github, Gitlab, Clubhouse, TestRail, Redmine
-  * Adaptability to various project management methodologies
-  * Our workflow usually implies Agile, Scrum, Kanban, and Traditional methodologies
-  * Constantly tracking project status, milestones, and success
-  * We write case studies to have a better insight into our projects
+  * Innovative project management solutions at every stage of the development process
+  * Clear communication every step of the way
+  * Project management from the start or take over of underperforming projects
+  * Ensure your project is on time, on track and on budget using your preferred PM workflow—Agile, Scrum, Kanban, and Traditional methodologies
+  * Measurable milestones ensuring you are apprised of the project status
+  * Consulting for new and existing projects including case studies for in-depth insights
+  * Manage within any PM tool including Atlassian JIRA, Rally, Trello, Asana, GitHub, Gitlab, Clubhouse, TestRail, Redmine
+
   """
 
 +++
 
-Our company's services include Quality Assurance, QA lead, Project Management, and Project Management Consulting.
+WeDoQA can assist at any stage of the development process. From Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non-IT user testing to ensure your software does more than function but is intuitive and user-friendly.
 
-We are flexible with using any standard or custom methodology, depending on the type of the project - like Agile, Scrumm, and Traditional. We will ensure to maximize the use of resources and time. Our team is adaptable to the needs of the clients, thus, to any issue tracking system. Check our business domain:
+We work with you and your team within any type of PM methodology including Agile, Scrum, Kanban, and Traditional. Our goal is to deliver or ensure superior software while optimizing your time and budget. Reach out to start your project from scratch, complete existing projects or test finished software for function, efficiency, and compliance.

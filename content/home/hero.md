@@ -43,6 +43,6 @@ hero_media = "hero.jpg"
 
 +++
 
-## WeDoQA: Because Quality Matters!
+## WeDoQA: Uncompromised Quality!
 
-We specialize in Quality Assurance and Project Management and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem
+You invest handsomely in your proprietary software and WeDoQA ensures it is high functioning, user-friendly, and industry compliant. We have an in-house Selenium Commercial Quality Assurance Framework and provide Project Management at any stage of development.
