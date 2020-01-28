@@ -8,3 +8,7 @@ li {
 .section-heading h1 {
   text-transform: none;
 }
+
+#hero .btn {
+  margin-bottom: 10px;
+}

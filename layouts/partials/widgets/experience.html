@@ -7,7 +7,9 @@
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
     {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
-  {{ with $page.Content }}<p class="text-center pb-4">{{ . | markdownify }}</p>{{ end }}
+  <div class="col-md-12">
+    {{ with $page.Content }}<p class="text-center pb-4">{{ . | markdownify }}</p>{{ end }}
+  </div>
   {{ if $page.Params.experience }}
   {{ $exp_len := len $page.Params.experience }}
   {{ range $idx, $key := sort $page.Params.experience ".date_start" "desc" }}
