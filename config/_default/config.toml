@@ -1,67 +1,142 @@
-# Configuration of Academia
-# Documentation: https://sourcethemes.com/academic/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-
-# Title of your site
-title = "WeDoQA by ALAS d.o.o."
-
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+################################# Default configuration ###################
 baseURL = "https://wedoqa.netlify.com/"
+title = "WeDoQA by ALAS d.o.o."
+theme = "meghna-hugo"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
 
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; {year}"
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
-# Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-6690279-1"
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
 
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+############################# Navigation ##################################
+[[menu.main]]
+name = "Home"
+pre = "#"
+url = "home"
+weight = 1
 
-############################
-## Advanced options below ##
-############################
+[[menu.main]]
+name = "What We Provide"
+pre = "#"
+url = "services"
+weight = 2
 
-# Name of Academia theme folder in `themes/`.
-theme = "academia"
+[[menu.main]]
+name = "Team"
+pre = "#"
+url = "team"
+weight = 4
 
-# Get last modified date for content from Git?
-enableGitInfo = false
+# [[menu.main]]
+# name = "Pricing"
+# pre = "#"
+# url = "pricing"
+# weight = 5
 
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
-defaultContentLanguageInSubdir = false
-removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
+# [[menu.main]]
+# name = "blog"
+# pre = "#"
+# url = "blog"
+# weight = 6
 
-paginate = 10  # Number of items per page in paginated lists.
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+[[menu.main]]
+name = "Contact"
+pre = "#"
+url = "contact"
+weight = 7
 
-[outputs]
-  home = [ "HTML", "RSS", "JSON" ]
-  section = [ "HTML", "RSS" ]
+############################# Default Parameters ##########################
+[params]
+logo = "images/logo.svg"
+# Meta data
+description = "WeDoQA: We specialize in Quality Assurance and Project Management and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem"
+author = "WeDoQA"
+# Google Analytics
+google_analytics_id = "UA-6690279-1" # Your ID
+# post share
+post_share = false
 
-# Configure BlackFriday Markdown rendering.
-#   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
-[blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-	angledQuotes = false
-	latexDashes = true
-  extensions = ["backslashLineBreak"]
+# preloader
+[params.preloader]
+enable = false
+preloader = "images/logo.svg"
 
-[imaging]
-  resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
-  author = "authors"
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+############################# social icons ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+copyright = "Copyright &copy; 2020 WeDoQA by ALAS d.o.o."

@@ -1,0 +1,13 @@
+############################### Banner ################################
+banner:
+  enable: true
+  bg_image_webp: 'images/hero-bg.jpg'
+  bg_image: 'images/hero-bg.jpg'
+  icon: '' # themify icon pack : https://themify.me/themify-icons
+  artwork: 'images/hero.svg'
+  title: 'Because Quality Matters!'
+  content: 'You invest handsomely in your proprietary software and WeDoQA ensures it is high functioning, user-friendly, and industry compliant. We have an in-house Selenium Commercial Quality Assurance Framework and provide Project Management at any stage of development.'
+  button:
+    enable: true
+    label: 'Explore Us'
+    link: '#services'

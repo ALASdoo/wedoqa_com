@@ -1,0 +1,253 @@
+#################################### portfolio ###############################
+portfolio:
+  enable: true
+  title: Team
+  portfolio_item:
+    # portfolio item loop
+    - name: Vilmos Somogyi
+      image: images/team/vilmos.jpg
+      categories: ['Management']
+      designation: CEO
+      content: QA Ninja, Front-end Evangelist, Amateur Photographer, Wine Enthousiast
+      link: ''
+
+    # portfolio item loop
+    - name: Tibor Dudjik
+      image: images/team/tibor.jpg
+      categories: ['Management']
+      designation: COO
+      content: QA Rockstar, .NET Backend Specialist, Project Manager, Coffee aficionado
+      link: ''
+
+    # portfolio item loop
+    - name: Maja Alic Dudjik
+      image: images/team/maja.jpg
+      categories: ['Management']
+      designation: CFO
+      content: Non tech bug hunter, Economist, Chocolate maniac
+      link: ''
+
+    # portfolio item loop
+    - name: Akos Szabo
+      image: images/team/akos.jpg
+      categories: ['Management', 'Manual QA Engineers']
+      designation: QA Lead
+      content: QA enthusiast, Mechatronics engineer, Media addict, Lacrosse player
+      link: ''
+
+    # portfolio item loop
+    - name: Aleksandra Kosanovic
+      image: images/team/aleksandra.jpg
+      categories: ['Developers']
+      designation: Front-End Developer
+      content: Angular Developer, Coffee Lover, Yogi Enthusiast
+      link: ''
+
+    # portfolio item loop
+    - name: Aleksandar Gospodinovic
+      image: images/team/lesa.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: FPL manager, Nature and basketball lover, Biker and hiker, IT enthusiast
+      link: ''
+
+    # portfolio item loop
+    - name: Bojana Lazic
+      image: images/team/bojana.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: >
+        "f u cn rd ths, u cn gt a gd jb n sftwr tstng." - Anonymus
+      link: ''
+
+    # portfolio item loop
+    - name: Dane Dukic
+      image: images/team/dane.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Hardcore “Ličanin”, Devotee of Danube, Biker, Football tactician, Tank crewman
+      link: ''
+
+    # portfolio item loop
+    - name: Daniel Snejder
+      image: images/team/daniel.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Assisted karate coach for children, Hiker, Motobiker
+      link: ''
+
+    # portfolio item loop
+    - name: Dragan Martinovic
+      image: images/team/dragan.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Music and Music Festivals addict, Video-gamer, Traveler, Sociologist wanna be
+      link: ''
+
+    # portfolio item loop
+    - name: Henrietta Balzam
+      image: images/team/henrietta.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Logic game enthusiast, Challenge seeker, Book and coffee lover
+      link: ''
+
+    # portfolio item loop
+    - name: Ines Prlainovic
+      image: images/team/ines.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Botany nerd, Tango milonguera, Figure skating fanatic
+      link: ''
+
+    # portfolio item loop
+    - name: Ivana Tetkic
+      image: images/team/ivana.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: HOG games addict, Travel maniac, Ping-pong guru
+      link: ''
+
+    # portfolio item loop
+    - name: Janos Bednarik
+      image: images/team/janos.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Milonguero, Hiker, Biker
+      link: ''
+
+    # portfolio item loop
+    - name: Jelena Krstic
+      image: images/team/jelena.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Social Media addict, Thriller bookworm, Coffee Maniac, Nature lover
+      link: ''
+
+    # portfolio item loop
+    - name: Luka Pavlica
+      image: images/team/luka.jpg
+      categories: ['Developers']
+      designation: Back-End Developer
+      content: I am constantly trying to improve myself, Big fan of martial arts and love watching good movies in free time
+      link: ''
+
+    # portfolio item loop
+    - name: Marina Petrovic
+      image: images/team/marina.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Mountain lover, Free spirit ready for new adventures
+      link: ''
+
+    # portfolio item loop
+    - name: Marta Gajin
+      image: images/team/marta.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: Manager by profession, QA by choice, Samba passista, Culinary artist
+      link: ''
+
+    # portfolio item loop
+    - name: Milica Lazic
+      image: images/team/milica.jpg
+      categories: ['Developers']
+      designation: Back-End Developer
+      content: Biker, Hiker, Hedonist, Just go with the flow
+      link: ''
+
+    # portfolio item loop
+    - name: Miroljub Arbutina
+      image: images/team/miroljub.jpg
+      categories: ['Developers']
+      designation: Back-End Developer
+      content: Python sage, Basketball legend, Hiking lover
+      link: ''
+
+    # portfolio item loop
+    - name: Nemanja Milenkovic
+      image: images/team/nemanja.jpg
+      categories: ['Developers']
+      designation: Back-End Developer
+      content: Gym addict, Health enthusiast, Believer in hard work
+      link: ''
+
+    # portfolio item loop
+    - name: Noemi Szabados
+      image: images/team/noemi.jpg
+      categories: ['Developers']
+      designation: Front-End Developer
+      content: Bookworm, BuJo addict
+      link: ''
+
+    # portfolio item loop
+    - name: Sasa Brkic
+      image: images/team/sasa.jpg
+      categories: ['Manual QA Engineers']
+      designation: QA Engineer
+      content: SF lover, Music and Movies addict, latent writer, bookworm
+      link: ''
+
+    # portfolio item loop
+    - name: Tajana Somogyi
+      image: images/team/tajana.jpg
+      categories: ['Manual QA Engineers', 'Designers']
+      designation: Designer / UX / QA
+      content: Nemoj sad to :-)
+      link: ''
+
+    # portfolio item loop
+    - name: Tamas Kovacsics
+      image: images/team/tamas.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: E-sports fan, Gamer, PBHB Archer
+      link: ''
+
+    # portfolio item loop
+    - name: Tibor Szakmany
+      image: images/team/tibor_szakmany.jpg
+      categories: ['Developers']
+      designation: Back-End Developer
+      content: Master of Plone, Bug slayer, The first of his name
+      link: ''
+
+    # portfolio item loop
+    - name: Tihomir Popov
+      image: images/team/tihomir.jpg
+      categories: ['Developers']
+      designation: Front-End Developer
+      content: JS Ninja, Sci-fi and Fantasy bookworm, Biker Hiker Camper, Scout Leader, Kite Enthusiast, Board game geek
+      link: ''
+
+    # portfolio item loop
+    - name: Valentino Milanov
+      image: images/team/valentino.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Juventus fan, Batman fanatic, Biker, Karaoke Master, Always seeking for new challenges
+      link: ''
+
+    # portfolio item loop
+    - name: Vlatko Dimitrovski
+      image: images/team/vlatko.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Nature, Chess and sport enthusiast, Car specialist, Gourmet
+      link: ''
+
+    # portfolio item loop
+    - name: Zoltan Horvat
+      image: images/team/horvatzoltan.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: (e-)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
+      link: ''
+
+    # portfolio item loop
+    - name: Zoltan Meze
+      image: images/team/zoltan.jpg
+      categories: ['Automated QA Engineers']
+      designation: Automated QA Engineer
+      content: Biker, E-sports fan, Gamer
+      link: ''
