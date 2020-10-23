@@ -1,7 +1,7 @@
 ############################# About ###################################
 about:
   enable: true
-  title: What We Provide
+  title: Our services
   description: |
     WeDoQA can assist at any stage of the development process. From Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non-IT user testing to ensure your software does more than function but is intuitive and user-friendly.
 

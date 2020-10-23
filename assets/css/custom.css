@@ -1,3 +1,11 @@
+.cookie-box {
+  z-index: 300;
+}
+
+.color,
+.title h2 span {
+  color: #4ba07d;
+}
 .border-meghna {
   display: none;
 }
@@ -11,7 +19,7 @@
 }
 
 .navigation {
-  background: #2b2b2a;
+  background: #353535;
 }
 .navigation .container {
   padding: 0;
@@ -23,6 +31,12 @@
 
 .navbar-dark .navbar-nav .nav-link {
   color: rgba(255, 255, 255, 0.7);
+}
+
+.navbar-dark .navbar-nav .nav-link:focus,
+.navbar-dark .navbar-nav .nav-link:hover {
+  /* color: #f07f1d; */
+  color: #60a987;
 }
 
 .navbar-brand img {
@@ -53,18 +67,24 @@
 
 .hero-area .block h1 {
   font-size: 40px;
+  margin-bottom: 40px;
 }
 
 .hero-area:before {
-  background: rgba(0, 0, 0, 0.25);
+  background: rgba(0, 0, 0, 0.1);
   z-index: 98;
 }
 
+.hero-area .btn {
+  z-index: 99;
+}
+
 .hero-artwork {
-  width: 60%;
-  right: 70px;
+  width: 100%;
+  max-width: 60%;
+  left: 37%;
   position: absolute;
-  bottom: 40px;
+  top: 60px;
 }
 
 .btn-transparent:hover,
@@ -88,4 +108,50 @@
 
 .btn-transparent {
   background-color: transparent;
+}
+
+.hero-area .block .btn {
+  margin-top: 40px;
+  padding: 14px 50px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.hero-btn {
+  margin-right: 20px;
+}
+.hero-btn:hover {
+  color: #fff;
+}
+.hero-btn-transparent:active,
+.hero-btn-transparent:hover {
+  border-color: #4b8369 !important;
+}
+
+.hero-btn-transparent:focus {
+  background-color: transparent;
+  border-color: #fff !important;
+}
+
+.carousel-left,
+.carousel-right {
+  font-size: 50px;
+  top: 50%;
+  position: absolute;
+  z-index: 200;
+  cursor: pointer;
+}
+.carousel-left {
+  left: 0;
+}
+.carousel-right {
+  right: 0;
+}
+
+.title h2 {
+  color: #bdbdbd;
+}
+
+.section-bg {
+  background: #191919;
 }
