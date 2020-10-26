@@ -1,0 +1,19 @@
+############################# call to action ##############################
+selenium:
+  enable: true
+  image: 'images/hero.svg'
+  title: 'Selenium framework'
+  content: |
+    Our in-house framework is designed for a diverse range of projects. It empowers us to speed up script test writing saving valuable time. As an in-house framework, we are constantly customizing and improving its efficiency and function.
+
+    * Java-based application
+    * Ant or Maven build and dependency management
+    * TestNG or JUnit test frameworks
+    * Parallel test run
+    * Custom made and well-tested wait methods
+    * IE, Edge, Chrome and Firefox support
+    * Customizable report generation
+    * Screenshots and logging
+    * UI verification against database or API
+    * TestRail integration
+    * Load testing using Amazon AWS, JMeter and Selenium

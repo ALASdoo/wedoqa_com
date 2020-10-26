@@ -1,19 +1,19 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.feature.feature.enable }}
-{{ with $data.feature.feature }}
-{{"<!-- feature -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="feature">
-	<div class="container-fluid">
+{{ if $data.aboutus.aboutus.enable }}
+{{ with $data.aboutus.aboutus }}
+{{"<!-- aboutus -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="aboutus">
+	<div class="container">
 		<div class="row">
-			<div class="content-block">
+			<div class="content-block col-lg-12">
 					<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
 						<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 					</div>
 					<p class="text-center">{{ .content | markdownify }}</p>
 				<div class="row">
-					{{ range .feature_item }}
+					{{ range .aboutus_item }}
 					<div class="col-lg-6">
 						<div class="media">
 							{{with .icon}}
@@ -33,6 +33,6 @@
 		</div>
 	</div>
 </section>
-{{"<!-- /feature -->" | safeHTML}}
+{{"<!-- /aboutus -->" | safeHTML}}
 {{ end }}
 {{ end }}

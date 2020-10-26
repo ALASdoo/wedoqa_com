@@ -1,3 +1,11 @@
+section,
+.section-bg {
+  background-color: #1c1c19;
+}
+.testimonial:before {
+  background: rgba(42, 42, 42, 0.7);
+}
+
 .cookie-box {
   z-index: 300;
 }
@@ -12,10 +20,6 @@
 
 .about .block .icon-box {
   color: #f07f1d;
-}
-
-.portfolio-block {
-  background-color: #293036 !important;
 }
 
 .navigation {
@@ -152,6 +156,163 @@
   color: #bdbdbd;
 }
 
-.section-bg {
-  background: #191919;
+/*=================================================================
+  About us section
+==================================================================*/
+.service .block {
+  background: #252524;
+  padding: 30px;
+  border-bottom: 2px solid transparent;
+  transition: 0.5s all;
+  margin-bottom: 20px;
+}
+
+.service .block:hover {
+  border-bottom: 2px solid #57cbcc;
+}
+
+.service .block:hover .icon-box {
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
+}
+
+.service .block .icon-box {
+  position: relative;
+  width: 160px;
+  height: 92.38px;
+  background-color: transparent;
+  margin: 46.19px auto 60px;
+  padding: 20px 0;
+  border-left: 2px solid rgba(236, 239, 241, 0.07);
+  border-right: 2px solid rgba(236, 239, 241, 0.07);
+  font-size: 50px;
+  -webkit-transform: translateZ(0px);
+  transform: translateZ(0px);
+  transition-duration: 0.3s;
+  transition-property: -webkit-transform;
+  transition-property: transform;
+  transition-property: transform, -webkit-transform;
+}
+
+.service .block .icon-box:after,
+.service .block .icon-box:before {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  width: 113.14px;
+  height: 113.14px;
+  background-color: inherit;
+  left: 20.4315px;
+  -webkit-transform: scaleY(0.5774) rotate(-45deg);
+  transform: scaleY(0.5774) rotate(-45deg);
+}
+
+.service .block .icon-box:before {
+  top: -56.5685px;
+  border-top: 2px solid rgba(236, 239, 241, 0.07);
+  border-right: 2px solid rgba(236, 239, 241, 0.07);
+}
+
+.service .block .icon-box:after {
+  bottom: -56.5685px;
+  border-bottom: 2px solid rgba(236, 239, 241, 0.07);
+  border-left: 2px solid rgba(236, 239, 241, 0.07);
+}
+
+.service .block .icon-box h3 {
+  color: #afbac4;
+}
+
+/*=================================================================
+  team section
+==================================================================*/
+.team-filter {
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.team-filter .btn {
+  outline: 0;
+  border: 1px solid rgba(236, 239, 241, 0.07);
+  background: transparent;
+  display: inline-block;
+  font-size: 16px;
+  padding: 6px 20px;
+  font-weight: 700;
+  color: #737f8a;
+  transition: 0.3s all;
+}
+
+.team-filter .btn.active {
+  border-color: #57cbcc;
+}
+
+.team-block {
+  position: relative;
+  background-color: #293036 !important;
+}
+
+.team-block:before {
+  transition: all 0.3s ease-in-out;
+  background: white;
+  opacity: 0;
+  top: 20px;
+  right: 20px;
+  bottom: 20px;
+  left: 20px;
+  position: absolute;
+  content: '';
+}
+
+.team-block img {
+  width: 100%;
+  height: auto;
+}
+
+.team-block:hover:before {
+  opacity: 1;
+}
+
+.team-block:hover .caption h4 {
+  top: 45%;
+}
+
+.team-block:hover .caption {
+  opacity: 1;
+  top: 55%;
+}
+
+.team-block .caption {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  z-index: 9;
+  transition: all 0.2s ease-in-out;
+  text-align: center;
+}
+
+.team-block .caption h4 {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.team-block .caption h4 a {
+  color: #555;
+}
+
+.team-block .caption .search-icon {
+  background: #57cbcc;
+  width: 50px;
+  height: 50px;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 30px;
+}
+
+.team-block .caption .search-icon i {
+  line-height: 50px;
 }
