@@ -8,9 +8,9 @@
 		<div class="row ">
 			<div class="col-xl-12">
 				{{"<!-- section title -->" | safeHTML}}
-				<div class="title text-center">
-					<h2>{{ .title }}</h2>
-					<div class="border-meghna"></div>
+				<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+					<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+						{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 				</div>
 				{{"<!-- /section title -->" | safeHTML}}
 			</div>
@@ -55,7 +55,7 @@
 							<a href="{{ .link | safeURL }}">{{ .name }}</a>
 							{{ end }}
 						</h4>
-						<span>{{ .designation | markdownify}}</span>
+						<div class="pb-2">{{ .designation | markdownify}}</div>
 					</div>
 					</div>
 			</div>

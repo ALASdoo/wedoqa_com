@@ -16,9 +16,9 @@
 			{{"<!-- /section title -->" | safeHTML}}
 		</div>
 		<div class="row">
-			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+			<div class="col-lg-6 padding-0">
 				<!-- this image is for trigger this section fallback background image -->
-				<img class="lozad" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'" data-src="{{ .image | absURL }}" />
+				<img class="lozad" src="{{ .image | absURL }}" />
 			</div>
 			<div class="col-lg-6">
 				<div class="content-block">

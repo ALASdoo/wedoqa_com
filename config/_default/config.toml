@@ -44,14 +44,20 @@ link = "plugins/google-map/map.js"
 [[menu.main]]
 name = "Home"
 pre = "#"
-url = "home"
+url = "body"
 weight = 1
 
 [[menu.main]]
-name = "What We Provide"
+name = "About Us"
 pre = "#"
-url = "services"
+url = "aboutus"
 weight = 2
+
+[[menu.main]]
+name = "Services"
+pre = "#"
+url = "service"
+weight = 3
 
 [[menu.main]]
 name = "Team"
@@ -59,23 +65,11 @@ pre = "#"
 url = "team"
 weight = 4
 
-# [[menu.main]]
-# name = "Pricing"
-# pre = "#"
-# url = "pricing"
-# weight = 5
-
-# [[menu.main]]
-# name = "blog"
-# pre = "#"
-# url = "blog"
-# weight = 6
-
 [[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 7
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]

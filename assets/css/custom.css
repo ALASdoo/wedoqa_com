@@ -156,8 +156,12 @@ section,
   color: #bdbdbd;
 }
 
+.icon {
+  width: 50px;
+}
+
 /*=================================================================
-  About us section
+  Service section
 ==================================================================*/
 .service .block {
   background: #252524;
@@ -168,7 +172,7 @@ section,
 }
 
 .service .block:hover {
-  border-bottom: 2px solid #57cbcc;
+  border-bottom: 2px solid #4ba07d;
 }
 
 .service .block:hover .icon-box {
@@ -219,6 +223,10 @@ section,
   border-left: 2px solid rgba(236, 239, 241, 0.07);
 }
 
+.service .block .icon-box img {
+  width: 65px;
+  margin-top: -35px;
+}
 .service .block .icon-box h3 {
   color: #afbac4;
 }
@@ -244,17 +252,17 @@ section,
 }
 
 .team-filter .btn.active {
-  border-color: #57cbcc;
+  border-color: #4ba07d;
 }
 
 .team-block {
   position: relative;
-  background-color: #293036 !important;
+  background-color: #292929 !important;
 }
 
 .team-block:before {
   transition: all 0.3s ease-in-out;
-  background: white;
+  background: rgba(255, 255, 255, 0.9);
   opacity: 0;
   top: 20px;
   right: 20px;
@@ -304,7 +312,7 @@ section,
 }
 
 .team-block .caption .search-icon {
-  background: #57cbcc;
+  background: #4ba07d;
   width: 50px;
   height: 50px;
   color: #fff;
