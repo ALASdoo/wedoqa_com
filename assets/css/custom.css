@@ -52,7 +52,7 @@ section,
 
 .color,
 .title h2 span {
-  color: #4ba07d;
+  color: #2ea06f;
 }
 
 .title h2 {
@@ -176,20 +176,15 @@ section,
   top: 60px;
 }
 
-.btn-transparent:hover,
-.btn-transparent:focus {
-  background-color: #4aa07d;
-}
-.btn:hover,
-.btn:focus {
-  background-color: #26845b;
-}
-
 .btn {
   text-transform: uppercase;
   letter-spacing: 3px !important;
   border-radius: 4px;
   background-color: #2ea06f;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #26845b;
 }
 
 .btn-transparent {
@@ -206,7 +201,6 @@ section,
 .hero-btn-transparent:hover {
   border-color: #26845b !important;
 }
-
 .hero-btn-transparent:focus {
   background-color: transparent;
   border-color: #fff !important;
@@ -289,15 +283,15 @@ section,
   color: rgba(255, 255, 255, 0.6) !important;
 }
 
-#contact-submit:hover,
-#contact-submit:focus {
-  background-color: #4b8369;
-}
 #contact-submit {
   text-transform: uppercase;
   letter-spacing: 3px !important;
   border-radius: 4px;
-  background-color: #4aa07d;
+  background-color: #2ea06f;
+}
+#contact-submit:hover,
+#contact-submit:focus {
+  background-color: #26845b;
 }
 
 #footer {
@@ -404,7 +398,7 @@ section,
 }
 
 .team-filter .btn.active {
-  border-color: #4ba07d;
+  border-color: #2ea06f;
   color: rgba(255, 255, 255, 0.8);
 }
 
@@ -465,7 +459,7 @@ section,
 }
 
 .team-block .caption .search-icon {
-  background: #4ba07d;
+  background: #2ea06f;
   width: 50px;
   height: 50px;
   color: #fff;
