@@ -3,7 +3,7 @@
 {{ if $data.aboutus.aboutus.enable }}
 {{ with $data.aboutus.aboutus }}
 {{"<!-- aboutus -->" | safeHTML}}
-<section class="section section-bg about-2 padding-0" id="aboutus">
+<section class="section section-bg" id="aboutus">
 	<div class="container">
 		<div class="row">
 			<div class="content-block col-lg-12">
@@ -11,11 +11,13 @@
 						<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
 							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
 					</div>
-					<p class="text-center">{{ .content | markdownify }}</p>
+					<div class="content pb-5">
+						{{ .content | markdownify }}
+					</div>
 				<div class="row">
 					{{ range .aboutus_item }}
 					<div class="col-lg-6">
-						<div class="media">
+						<div class="media pb-5">
 							{{with .icon}}
 							<div class="icon align-self-start mr-3">
 								<img src="{{ . }}" alt="" />

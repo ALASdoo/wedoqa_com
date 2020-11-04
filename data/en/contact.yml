@@ -2,16 +2,19 @@
 contact:
   enable: true
   title: Contact Us
-  subtitle: Contact Details
-  content: Want to know more about WeDoQA? Contact us to know how we can help you in making sure your current endeavors in business is a stunning success.
+  content: |
+    Our goal is to deliver or ensure superior software while optimizing your time and budget.
+
+    Reach out to start your project from scratch, complete existing projects, or test finished software
+    for function, efficiency, and compliance.
 
   # Contact details
   contact_list:
     - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info: 'Rudjera Boskovica 20, Novi Sad, Serbia'
+      info: Rudjera Boskovica 20, Novi Sad, Serbia
 
     - icon: ti-email # themify icon pack : https://themify.me/themify-icons
-      info: 'Email: info@wedoqa.com'
+      info: info@wedoqa.com
 
   # Contact form
   contact_form:

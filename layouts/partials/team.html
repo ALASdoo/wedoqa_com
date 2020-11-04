@@ -3,7 +3,7 @@
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
 {{"<!-- team Section -->" | safeHTML}}
-<section class="team section" id="team">
+<section id="team" class="team section light-bg">
 	<div class="container">
 		<div class="row ">
 			<div class="col-xl-12">
@@ -55,7 +55,7 @@
 							<a href="{{ .link | safeURL }}">{{ .name }}</a>
 							{{ end }}
 						</h4>
-						<div class="pb-2">{{ .designation | markdownify}}</div>
+						<div class="title pb-3">{{ .designation | markdownify}}</div>
 					</div>
 					</div>
 			</div>

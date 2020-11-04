@@ -2,8 +2,10 @@
 selenium:
   enable: true
   image: 'images/selenium-artwork.svg'
-  title: 'Selenium framework'
+  title: ''
   content: |
+    ### Selenium framework
+
     Our in-house framework is designed for a diverse range of projects. It empowers us to speed up script test writing saving valuable time. As an in-house framework, we are constantly customizing and improving its efficiency and function.
 
     * Java-based application

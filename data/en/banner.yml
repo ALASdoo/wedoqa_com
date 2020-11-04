@@ -12,4 +12,4 @@ banner:
   button2:
     enable: true
     label: 'Learn more'
-    link: '#services'
+    link: '#aboutus'

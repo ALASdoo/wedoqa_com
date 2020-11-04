@@ -3,8 +3,9 @@
 {{ if $data.selenium.selenium.enable}}
 {{ with $data.selenium.selenium}}
 {{"<!-- Start Selenium -->" | safeHTML}}
-<section id="selenium" class="section-sm">
+<section id="selenium" class="light-bg section-sm">
 	<div class="container">
+		{{ if .title }}
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML}}
@@ -15,8 +16,9 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 		</div>
+		{{ end }}
 		<div class="row">
-			<div class="col-lg-6 padding-0">
+			<div class="col-lg-6 artwork">
 				<!-- this image is for trigger this section fallback background image -->
 				<img class="lozad" src="{{ .image | absURL }}" />
 			</div>
