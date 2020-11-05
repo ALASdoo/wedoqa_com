@@ -1,5 +1,11 @@
 body {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 18px;
+}
+
+p,
+li {
+  font-family: 'Noto Sans', sans-serif;
 }
 
 h1,
@@ -8,10 +14,15 @@ h3,
 h4,
 h5,
 h6 {
-  color: rgba(255, 255, 255, 0.75);
+  color: #bdbdbd;
 }
 a {
   color: rgba(255, 255, 255, 0.8);
+}
+h3,
+h4 {
+  margin-bottom: 15px;
+  font-weight: 700;
 }
 a:focus,
 a:hover {
@@ -40,7 +51,7 @@ section,
   color: rgba(0, 0, 0, 0.8);
 }
 .light-bg h3 {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0, 0, 0, 0.7);
 }
 #team {
   background-color: #252524;
@@ -154,9 +165,7 @@ section,
 
 .hero-area .btn {
   margin-top: 40px;
-  padding: 14px 50px;
-  font-size: 16px;
-  font-weight: 700;
+
   z-index: 99;
 }
 .hero-area .btn-transparent {
@@ -180,6 +189,9 @@ section,
   text-transform: uppercase;
   letter-spacing: 3px !important;
   border-radius: 4px;
+  padding: 14px 50px;
+  font-size: 16px;
+  font-weight: 700;
   background-color: #2ea06f;
 }
 .btn:hover,
@@ -235,15 +247,27 @@ section,
 .testimonial:before {
   background: rgba(0, 0, 0, 0.4);
 }
+.client-info {
+  width: 80%;
+}
+.slick-slider {
+  position: initial;
+}
 .client-meta h3 {
-  color: #fff;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 100;
+  font-size: 20px;
 }
 .client-meta span {
   color: rgba(255, 255, 255, 0.5);
 }
 .slick-arrow,
 .client-comment p {
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(255, 255, 255, 0.8);
+}
+.client-comment p {
+  font-style: italic;
+  font-size: 25px;
 }
 
 .client-meta span {
@@ -287,6 +311,7 @@ section,
   text-transform: uppercase;
   letter-spacing: 3px !important;
   border-radius: 4px;
+  padding: 14px 50px;
   background-color: #2ea06f;
 }
 #contact-submit:hover,
@@ -300,6 +325,11 @@ section,
 .copyright {
   padding: 10px 0;
   color: rgba(255, 255, 255, 0.8);
+}
+
+.service h3 {
+  padding-top: 15px;
+  margin-bottom: 30px;
 }
 
 /*=================================================================

@@ -25,12 +25,13 @@
 
 						{{"<!-- client info -->" | safeHTML}}
 						<div class="client-info">
-							<div class="client-meta">
-								<h3>{{ .name }}</h3>
-								<span>{{ .date }}</span>
-							</div>
+							<div class="quote">"</div>
 							<div class="client-comment">
 								<p>{{ .content | markdownify }}</p>
+							</div>
+							<div class="client-meta">
+								<h3>&mdash;&nbsp;{{ .name }}</h3>
+								<span>{{ .date }}</span>
 							</div>
 						</div>
 					</div>
