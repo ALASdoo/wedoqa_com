@@ -93,7 +93,7 @@ jQuery(function ($) {
           1500,
           'easeInOutExpo'
         );
-        return false;
+        return;
       }
     }
   });

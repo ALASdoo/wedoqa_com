@@ -133,7 +133,7 @@ section,
   position: absolute;
   top: 0;
   right: 0;
-  bottom: 0;
+  bottom: -5px;
   left: 0;
   z-index: 98;
 }
@@ -206,6 +206,7 @@ section,
 
 .btn-transparent {
   background-color: transparent;
+  border-color: #fff;
 }
 
 .hero-btn {
@@ -223,6 +224,10 @@ section,
   border-color: #fff !important;
 }
 
+.cookie-box .btn {
+  padding: 5px 20px;
+  margin-left: 15px;
+}
 .about .block .icon-box {
   color: #f07f1d;
 }
@@ -253,6 +258,9 @@ section,
   color: inherit;
 }
 
+.call-to-action p {
+  font-size: 18px;
+}
 .carousel-left,
 .carousel-right {
   font-size: 50px;
@@ -473,6 +481,10 @@ section,
 .team-block {
   position: relative;
   background-color: #1d1d19 !important;
+  margin: 18px;
+}
+.team-block.mb-5 {
+  margin-bottom: 43px !important;
 }
 
 .team-block:before {

@@ -18,7 +18,7 @@
 			<div class="col-lg-12">
 				{{"<!-- section description -->" | safeHTML}}
 				<div class="description text-center wow fadeIn pb-4" data-wow-duration="1500ms">
-					<p> {{ .description | markdownify }} </p>
+					{{ .description | markdownify }}
 				</div>
 			</div>
 			{{"<!-- /section description -->" | safeHTML}}
