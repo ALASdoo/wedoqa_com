@@ -3,8 +3,14 @@ cta:
   enable: true
   bg_image: 'images/cta.jpg'
   bg_image_webp: 'images/cta.jpg'
-  title: 'Great Design & Incredible Features'
-  content: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.'
+  title: 'Looking for a reliable software testing partner?'
+  content: |
+    Make an appointment with our Senior Quality Assurance specialist to:
+
+    * Enquire about a potential opportunity for cooperation
+    * Receive a free consultation about your QA and Software Testing needs
+    * Get introduced to our workflow
+
   button:
     enable: true
     label: 'Start a project with us'

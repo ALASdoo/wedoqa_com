@@ -6,7 +6,7 @@ selenium:
   content: |
     ### Selenium framework
 
-    Our in-house framework is designed for a diverse range of projects. It empowers us to speed up script test writing saving valuable time. As an in-house framework, we are constantly customizing and improving its efficiency and function.
+    Our in-house framework is designed for a diverse range of projects. It empowers us to speed up script test writing, saving valuable time. As an in-house framework, we are constantly customizing and improving its efficiency and function.
 
     * Java-based application
     * Ant or Maven build and dependency management
@@ -18,4 +18,4 @@ selenium:
     * Screenshots and logging
     * UI verification against database or API
     * TestRail integration
-    * Load testing using Amazon AWS, JMeter and Selenium
+    * Load Testing using Amazon AWS, JMeter and Selenium

@@ -3,14 +3,16 @@ aboutus:
   enable: true
   title: About us
   content: |
-    WeDoQA can assist at any stage of the development process. From Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non-IT user testing to ensure your software does more than function but is intuitive and user-friendly.
+    Started in 2005 in Novi Sad, Serbia, as part of [ALAS doo](https://www.alasdoo.com), WeDoQa is an outsource Software Testing and Quality Assurance company with broad experience in manual and automated testing and more than 30 professionals on board.
 
-    We work with you and your team within any type of PM methodology including Agile, Scrum, Kanban, and Traditional. Our goal is to deliver or ensure superior software while optimizing your time and budget. Reach out to start your project from scratch, complete existing projects or test finished software for function, efficiency, and compliance.'
+    With our well-established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest of standards.
+
+    With WeDoQA, our clients are guaranteed a professional experience, transparent communication, concise documentation, and exceptional results.
   aboutus_item:
     # aboutus item loop
     - title: Multifield experts
       icon: images/experts.svg
-      content: Our team is comprised of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non-IT input during weekly brainstorming sessions with everyday users who test your software. The insights they deliver take your project to the next level, ensuring an intuitive, user-friendly, and valuable product. This is where we really shine!
+      content: Our team consists of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non-IT input during weekly brainstorming sessions with everyday users who test your software. The insights they deliver take your project to the next level, ensuring an intuitive, user-friendly, and valuable product. This is where we really shine!
 
       # aboutus item loop
     - title: Implementation in any stage

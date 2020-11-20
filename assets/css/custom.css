@@ -227,6 +227,24 @@ section,
   color: #f07f1d;
 }
 
+#aboutus .content,
+#service .description {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#cta .container {
+  max-width: 700px;
+}
+#cta h2 {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+#cta li {
+  text-align: left;
+}
+
 .call-to-action {
   background-attachment: initial;
 }
