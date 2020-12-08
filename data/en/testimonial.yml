@@ -10,6 +10,12 @@ testimonial:
       content: Multi browser automated testing in Selenium Grid.
 
     # testimonial item loop
+    - name: Jeff Zucker, CEO ADVault, Inc. - MyDirectives.com
+      image:
+      image_webp:
+      content: We have worked with the WeDoQA team for over ten years. They have always exceeded our high expectations. The team is focused, smart, organized and consistently delivers results. We highly recommend them if you’re looking for a best-in-class QA partner.
+
+    # testimonial item loop
     - name: Jamil Greor, HyperMedia
       image:
       image_webp:
@@ -20,12 +26,6 @@ testimonial:
       image:
       image_webp:
       content: WeDoQA did a great job on this initial testing project. So well that we decided to continue to work with them on a separate hourly project. We are very happy with their work, skills, and communication. They are testing experts. We hope to have a long term relationship with WeDoQA.
-
-    # testimonial item loop
-    - name: Morten Elk, Simple Site
-      image:
-      image_webp:
-      content: It is a wholly satisfying experience to work with WeDoQA. Any small problems are spotted and either just solved or the issue is raised for clarification. It is very easy to quickly arrive at a perfect result with WeDoQA. Highly recommended!
 
     # testimonial item loop
     - name: Mike Lenyon
@@ -44,12 +44,6 @@ testimonial:
       image:
       image_webp:
       content: Excellent work, went above and beyond. Very detail oriented. Gave suggestions to improve the application, I will implement most of them. Very smart test plan and execution was perfect. Thank you.
-
-    # testimonial item loop
-    - name: Jeff Zucker, CEO ADVault, Inc. - MyDirectives.com
-      image:
-      image_webp:
-      content: We have worked with the WeDoQA team for over ten years. They have always exceeded our high expectations. The team is focused, smart, organized and consistently delivers results. We highly recommend them if you’re looking for a best-in-class QA partner.
 
     # testimonial item loop
     - name: Deven Kalra
