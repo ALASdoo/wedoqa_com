@@ -3,10 +3,15 @@ contact:
   enable: true
   title: Contact Us
   content: |
-    Our goal is to deliver or ensure superior software while optimizing your time and budget.
+    #### Get started with WeDoQa today!
 
-    Reach out to start your project from scratch, complete existing projects, or test finished software
-    for function, efficiency, and compliance.
+    Reach out to start your project from scratch, complete existing projects, or test finished software for function, efficiency, and compliance.
+
+    #### Not sure what is the best testing approach for your project?
+
+    We know the right questions to hit the ground running!
+
+    Make an appointment with our Senior Quality Assurance specialist and receive a free consultation about your QA and Software Testing needs.
 
   # Contact details
   contact_list:
