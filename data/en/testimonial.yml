@@ -4,12 +4,6 @@ testimonial:
   bg_image: images/hero-bg.jpg
   testimonial_item:
     # testimonial item loop
-    - name: Brandwatch
-      image:
-      image_webp:
-      content: Multi browser automated testing in Selenium Grid.
-
-    # testimonial item loop
     - name: Jeff Zucker, CEO ADVault, Inc. - MyDirectives.com
       image:
       image_webp:

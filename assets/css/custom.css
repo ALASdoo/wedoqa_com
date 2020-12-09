@@ -41,7 +41,23 @@ a:hover {
 .title {
   padding-bottom: 40px;
 }
-
+@media (max-width: 768px) {
+  .section {
+    padding: 80px 0;
+  }
+}
+@media (max-width: 480px) {
+  .section,
+  .section-sm {
+    padding: 50px 0;
+  }
+  .title {
+    padding-bottom: 20px;
+  }
+  #aboutus {
+    padding-bottom: 0;
+  }
+}
 section,
 .section-bg {
   background-color: #1c1c19;
@@ -148,9 +164,34 @@ section,
 }
 
 .hero-area .block {
-  width: 60%;
+  width: 100%;
   text-align: left;
   padding: 0 20px;
+}
+
+@media (min-width: 576px) {
+  .hero-area .block {
+    min-width: 540px;
+    width: 80%;
+  }
+}
+
+@media (min-width: 768px) {
+  .hero-area .block {
+    width: 60%;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .hero-area .btn {
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+  }
+  .hero-area .btn-transparent {
+    margin-top: 20px;
+  }
 }
 
 .hero-area .block p {
@@ -239,11 +280,12 @@ section,
   text-align: center;
 }
 
-#cta .container {
-  max-width: 700px;
+#aboutus a {
+  text-decoration: underline;
 }
-#cta h2 {
-  color: rgba(255, 255, 255, 0.9);
+
+#cta .container {
+  max-width: 674px;
 }
 
 #cta li {
@@ -254,8 +296,9 @@ section,
   background-attachment: initial;
 }
 .call-to-action h2,
-.call-to-action p {
-  color: inherit;
+.call-to-action p,
+.call-to-action li {
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .call-to-action p {
@@ -315,6 +358,14 @@ section,
   font-style: italic;
   font-size: 25px;
 }
+@media (max-width: 575.98px) {
+  #testimonial {
+    padding: 20px 0;
+  }
+  .client-comment p {
+    font-size: 20px;
+  }
+}
 
 .client-meta span {
   font-size: 20px;
@@ -332,6 +383,16 @@ section,
   margin-top: 60px;
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
+}
+@media (max-width: 575.98px) {
+  .contact-details {
+    margin-top: 0;
+  }
+}
+@media (max-width: 480px) {
+  #contact .title {
+    padding-bottom: 20px;
+  }
 }
 .contact-details i {
   color: #f07f1d;

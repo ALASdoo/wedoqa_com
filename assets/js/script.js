@@ -67,8 +67,8 @@ jQuery(function ($) {
     arrows: true,
     autoplay: true,
     autoplaySpeed: 4000,
-    prevArrow: '<div class="carousel-left">&lt;</div>',
-    nextArrow: '<div class="carousel-right">&gt;</div>'
+    prevArrow: '<div class="carousel-left d-none d-sm-block">&lt;</div>',
+    nextArrow: '<div class="carousel-right d-none d-sm-block">&gt;</div>'
   });
 
   /* ========================================================================= */
