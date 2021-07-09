@@ -14,7 +14,7 @@ btn:
 superuser: false
 
 # Role/position
-role: COO
+role: Advisor
 
 # Organizations/Affiliations
 organizations:
