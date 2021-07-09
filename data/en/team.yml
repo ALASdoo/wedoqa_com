@@ -21,7 +21,7 @@ team:
     - name: Tibor Dudjik
       image: images/team/tibor.jpg
       categories: ['Management']
-      designation: COO
+      designation: Advisor
       content: QA Rockstar, .NET Backend Specialist, Project Manager, Coffee aficionado
       link: ''
 
