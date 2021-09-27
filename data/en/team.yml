@@ -58,7 +58,7 @@ team:
       link: ''
 
     # team item loop
-    - name: Bojana Lazic
+    - name: Bojana Lazarevic
       image: images/team/bojana.jpg
       categories: ['Manual QA Engineers']
       designation: QA Engineer
