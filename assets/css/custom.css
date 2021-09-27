@@ -223,6 +223,31 @@ section,
   font-weight: bold;
 }
 
+@media (orientation: landscape) and (max-width: 900px)  {
+  .hero-area .block h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+
+  .hero-area .block p {
+    font-size: 16px;
+  }
+}
+
+@media (orientation: landscape) and (max-width: 575px)  {
+  .hero-area {
+    height: 100%;
+  }
+
+  .hero-area .btn {
+    margin: 20px 0 !important;
+  }
+
+  .hero-area .block {
+    padding: 20px;
+  }
+}
+
 .hero-artwork img {
   width: 100%;
   height: 80vh;
