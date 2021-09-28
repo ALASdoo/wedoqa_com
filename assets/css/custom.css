@@ -648,3 +648,7 @@ section,
   color: rgba(255, 255, 255, 0.6);
   font-size: 20px;
 }
+
+.form-meghna .form-group textarea {
+  min-height: 50px;
+}
