@@ -38,7 +38,7 @@ team:
       image: images/team/akos.jpg
       categories: ['Manual QA Engineers']
       designation: QA Lead
-      content: QA enthusiast, Mechatronics engineer, Media addict, Lacrosse player
+      content: QA enthusiast, Mechatronics engineer, Media addict, Boxing fan
       link: ''
 
     # team item loop
@@ -123,7 +123,7 @@ team:
       link: ''
 
     # team item loop
-    - name: Jelena Krstic
+    - name: Jelena Petrovic
       image: images/team/jelena.jpg
       categories: ['Manual QA Engineers']
       designation: QA Engineer
@@ -179,7 +179,7 @@ team:
       link: ''
 
     # team item loop
-    - name: Noemi Szabados
+    - name: Noemi Szabados Szabo
       image: images/team/noemi.jpg
       categories: ['Developers']
       designation: Front-End Developer
