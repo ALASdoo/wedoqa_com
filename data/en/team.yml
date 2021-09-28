@@ -14,7 +14,7 @@ team:
       image: images/team/vilmos.jpg
       categories: ['Management']
       designation: CEO
-      content: QA Ninja, Front-end Evangelist, Amateur Photographer, Wine Enthousiast
+      content: QA Ninja, Front-end Evangelist, Amateur Photographer, Wine Enthusiast
       link: ''
 
     # team item loop
