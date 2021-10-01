@@ -643,12 +643,18 @@ section,
 
 .team-text h4 {
   color: rgba(255, 255, 255, 0.8);
+  padding: 0 16px;
 }
 .team-text .title {
   color: rgba(255, 255, 255, 0.6);
   font-size: 20px;
 }
-
+@media (max-width: 1199px) {
+  .team-text h4 {
+    min-height: 56px;
+    margin-bottom: 0;
+  }
+}
 .form-meghna .form-group textarea {
   min-height: 50px;
 }
