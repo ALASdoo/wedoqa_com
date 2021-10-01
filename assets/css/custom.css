@@ -664,3 +664,13 @@ section,
     padding: 14px;
   }
 }
+
+@media (min-width: 992px) and  (max-width: 1199px){
+  .service h3 {
+    min-height: 81px;
+  }
+
+  .service ul {
+    min-height: 600px;
+  }
+}
