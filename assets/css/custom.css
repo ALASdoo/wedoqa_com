@@ -658,3 +658,9 @@ section,
 .form-meghna .form-group textarea {
   min-height: 50px;
 }
+
+@media (max-width: 370px) {
+  .call-to-action a {
+    padding: 14px;
+  }
+}
