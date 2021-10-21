@@ -223,7 +223,7 @@ section,
   font-weight: bold;
 }
 
-@media (orientation: landscape) and (max-width: 900px)  {
+@media (orientation: landscape) and (max-width: 900px) {
   .hero-area .block h1 {
     font-size: 36px;
     margin-bottom: 10px;
@@ -234,7 +234,7 @@ section,
   }
 }
 
-@media (orientation: landscape) and (max-width: 575px)  {
+@media (orientation: landscape) and (max-width: 575px) {
   .hero-area {
     height: 100%;
   }
@@ -402,6 +402,18 @@ section,
 
 .contact-info {
   padding-right: 60px;
+}
+.con-info {
+  display: flex;
+}
+.con-info i {
+  display: inline-block;
+  margin-top: -3px;
+  vertical-align: middle;
+}
+.con-info-icon,
+.con-info-text {
+  display: inline-block;
 }
 
 .contact-details {
@@ -665,7 +677,7 @@ section,
   }
 }
 
-@media (min-width: 992px) and  (max-width: 1199px){
+@media (min-width: 992px) and (max-width: 1199px) {
   .service h3 {
     min-height: 81px;
   }

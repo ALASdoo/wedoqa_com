@@ -46,7 +46,7 @@ link = "plugins/google-map/map.js"
 [[menu.main]]
 name = "Home"
 pre = "#"
-url = "body"
+url = "home"
 weight = 1
 
 [[menu.main]]
