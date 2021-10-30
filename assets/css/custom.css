@@ -98,8 +98,15 @@ section,
   display: none;
 }
 
+#content {
+  padding-top: 74px;
+}
+
 .navigation {
   background: #353535;
+  position: fixed;
+  top: 0;
+  z-index: 1020;
 }
 
 .navigation .container {
