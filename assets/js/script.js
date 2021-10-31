@@ -157,4 +157,19 @@ jQuery(function ($) {
   $(window).on('scroll', function () {
     counter();
   });
+
+
+  /* ========================================================================= */
+  /*	Reduce textarea on small screens
+  /* ========================================================================= */
+
+  var messageHTML = $('#message')[0];
+  if ($(window).innerHeight() <= 600) {
+    messageHTML.rows = 5;
+  }
+  else {
+    messageHTML.rows = 10;
+  }
+
+
 });
