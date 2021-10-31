@@ -21,7 +21,7 @@ jQuery(function ($) {
   /*	lazy load initialize
 	/* ========================================================================= */
 
-  const observer = lozad(); // lazy loads elements with default selector as ".lozad"
+  var observer = lozad(); // lazy loads elements with default selector as ".lozad"
   observer.observe();
 
   /* ========================================================================= */
