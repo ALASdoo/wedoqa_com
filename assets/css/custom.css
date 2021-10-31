@@ -130,6 +130,11 @@ section,
 .navbar-dark .navbar-nav .show > .nav-link {
   color: #60a987;
 }
+
+.navbar-brand {
+  max-width: 50%;
+}
+
 .navbar-brand img {
   padding: 5px 0;
 }
@@ -163,8 +168,13 @@ section,
 
 .hero-area {
   max-width: 1600px;
-  height: calc(100vh - 70px);
+  min-height: calc(100vh - 70px);
   justify-content: start;
+}
+@media screen and (max-height: 600px) {
+  .hero-area {
+    height: unset; /* hero contetn can't fit small screens*/
+  }
 }
 .hero-area:before {
   background: transparent;
@@ -173,7 +183,7 @@ section,
 .hero-area .block {
   width: 100%;
   text-align: left;
-  padding: 0 20px;
+  padding: 20px;
 }
 
 @media (min-width: 576px) {
