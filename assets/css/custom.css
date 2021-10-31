@@ -171,9 +171,9 @@ section,
   min-height: calc(100vh - 70px);
   justify-content: start;
 }
-@media screen and (max-height: 600px) {
+@media screen and (min-height: 600px) {
   .hero-area {
-    height: unset; /* hero contetn can't fit small screens*/
+    height: calc(100vh - 70px);
   }
 }
 .hero-area:before {
@@ -238,6 +238,22 @@ section,
   font-size: 18px;
   font-size: 16px;
   font-weight: bold;
+}
+
+@media screen and (max-height: 600px) {
+  .hero-area {
+    height: unset; /* hero contetn can't fit small screens*/
+  }
+  div.hero-area .block p {
+    font-size: 18px;
+  }
+  div.hero-area .block h1 {
+    font-size: 36px;
+  }
+  .hero-area .btn,
+  .hero-area .btn.btn-transparent {
+    margin-top: 20px;
+    }
 }
 
 @media (orientation: landscape) and (max-width: 900px) {
