@@ -631,10 +631,36 @@ section,
   content: '';
 }
 
+
+@keyframes fade {
+  from {
+    opacity: 1;
+  } to {
+    opacity: .2;
+  }
+}
+
+
+
 .team-block img {
   width: 100%;
   height: auto;
 }
+
+@keyframes fade {
+  from {
+    opacity: 1;
+  } to {
+    opacity: 0.5;
+  }
+}
+.team-placeholder {
+  -webkit-animation: fade 1.5s ease-in-out infinite alternate;
+  animation: fade 1.5s ease-in-out infinite alternate;
+  -webkit-animation-delay: 0s;
+  animation-delay: 0s;
+}
+
  /* Team image over placeholder */ 
 .img-fluid {
   z-index: 1;
@@ -643,6 +669,8 @@ section,
   top: 0;
 }
 
+
+/* Show owerlay on hover */
 .team-block:hover:before {
   opacity: 1;
 }
