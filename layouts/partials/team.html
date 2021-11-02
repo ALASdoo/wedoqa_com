@@ -52,7 +52,7 @@
 			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
 				<div class="team-block mb-5">
-					<img src="{{ site.Params.team_placeholder | absURL }}" alt="placeholder img">
+					<img class="team-placeholder" src="{{ site.Params.team_placeholder | absURL }}" alt="placeholder img">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null; this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
 						<p>{{ .content | markdownify }}</p>
