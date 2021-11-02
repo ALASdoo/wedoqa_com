@@ -14,6 +14,7 @@
 				</div>
 				{{"<!-- /section title -->" | safeHTML}}
 			</div>
+
 			<div class="col-lg-12">
 				{{"<!-- section description -->" | safeHTML}}
 				<div class="description text-center wow fadeIn pb-4" data-wow-duration="1500ms">
@@ -22,6 +23,7 @@
 			</div>
 			{{"<!-- /section description -->" | safeHTML}}
 		</div>
+
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="btn-group team-filter btn-group-toggle justify-content-center d-flex flex-wrap"
@@ -50,7 +52,8 @@
 			<div class="col-lg-4 col-md-6 shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
 				<div class="team-block mb-5">
-					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+					<img src="{{ site.Params.team_placeholder | absURL }}" alt="placeholder img">
+					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null; this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 					<div class="caption">
 						<p>{{ .content | markdownify }}</p>
 					</div>

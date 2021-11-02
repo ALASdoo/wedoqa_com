@@ -627,12 +627,20 @@ section,
   bottom: 20px;
   left: 20px;
   position: absolute;
+  z-index: 2;
   content: '';
 }
 
 .team-block img {
   width: 100%;
   height: auto;
+}
+ /* Team image over placeholder */ 
+.img-fluid {
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .team-block:hover:before {

@@ -76,6 +76,7 @@ weight = 5
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.svg"
+team_placeholder = "images/team/00_placeholder.jpeg"
 # Meta data
 description = "WeDoQA: We specialize in Quality Assurance and Project Management and we do it exceptionally. We are an official Selenium Commercial support provider as part of the Selenium Ecosystem"
 author = "WeDoQA"
