@@ -171,9 +171,12 @@ section,
   min-height: calc(100vh - 70px);
   justify-content: start;
 }
+
 @media screen and (min-height: 600px) {
   .hero-area {
-    height: calc(100vh - 70px);
+    /* https://css-tricks.com/the-trick-to-viewport-units-on-mobile/ */
+    height: calc(100vh - 70px); /* Fallback for browsers that do not support Custom Properties */
+    height: calc(var(--vh, 1vh) * 100 - 70px);
   }
 }
 .hero-area:before {
