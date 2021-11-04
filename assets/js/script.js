@@ -84,7 +84,7 @@ jQuery(function ($) {
 	/* ========================================================================= */
 
   var html_body = $('html, body');
-  $('nav a, .page-scroll').on('click', function () {
+  $('.navbar-nav a, .page-scroll').on('click', function () {
     //use page-scroll class in any HTML tag for scrolling
     if (
       location.pathname.replace(/^\//, '') ===
@@ -121,6 +121,22 @@ jQuery(function ($) {
       return (c / 2) * (-Math.pow(2, -10 * --t) + 2) + b;
     },
   });
+
+
+  /* ========================================================================= */
+  /*	close menu on click outside header or click on navigation item
+  /* ========================================================================= */
+  $(window).on('click', function (e) {
+    if ($(e.target.closest('.navbar')).length > 0 && !$(e.target.closest('.navbar a')).length > 0) {
+      return;
+    }
+
+    var navbar_collaps = $('.navbar-collapse');
+    console.log('has class ', navbar_collaps.hasClass('show'))
+    if (navbar_collaps.hasClass('show')) {
+      $('.navbar-toggler').click()
+    }
+  })
 
   /* ========================================================================= */
   /*	counter up
