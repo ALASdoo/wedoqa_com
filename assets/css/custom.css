@@ -243,19 +243,21 @@ section,
   font-weight: bold;
 }
 
-@media screen and (max-height: 600px) {
+@media screen and (max-width: 400px) {
   .hero-area {
     height: unset; /* hero contetn can't fit small screens*/
   }
   div.hero-area .block p {
-    font-size: 18px;
+    font-size: 16px;
   }
   div.hero-area .block h1 {
     font-size: 36px;
+    margin-bottom: 36px;
   }
   .hero-area .btn,
   .hero-area .btn.btn-transparent {
-    margin-top: 20px;
+    margin-top: 30px;
+    padding: 10px 40px;
     }
 }
 
