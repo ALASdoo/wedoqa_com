@@ -132,7 +132,6 @@ jQuery(function ($) {
     }
 
     var navbar_collaps = $('.navbar-collapse');
-    console.log('has class ', navbar_collaps.hasClass('show'))
     if (navbar_collaps.hasClass('show')) {
       $('.navbar-toggler').click()
     }
@@ -193,9 +192,7 @@ jQuery(function ($) {
    * fix flickering 
    * https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
    */
-  window.addEventListener('resize', () => {
     let vh = window.innerHeight * 0.01;
     document.documentElement.style.setProperty('--vh', `${vh}px`);
-  });
 
 });
