@@ -172,7 +172,7 @@ section,
   justify-content: start;
 }
 
-@media screen and (min-height: 600px) {
+@media screen and (max-width: 400px) {
   .hero-area {
     /* https://css-tricks.com/the-trick-to-viewport-units-on-mobile/ */
     height: calc(100vh - 70px); /* Fallback for browsers that do not support Custom Properties */
