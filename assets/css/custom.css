@@ -588,6 +588,10 @@ section,
 /*=================================================================
   team section
 ==================================================================*/
+.shuffle-item {
+  width: auto;
+}
+
 .team-filter {
   margin-bottom: 40px;
   text-align: center;
@@ -648,8 +652,11 @@ section,
 
 
 .team-block img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
   height: auto;
+  max-height: calc(100vh - 75px);
+  display: block;
 }
 
 @keyframes fade {
