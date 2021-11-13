@@ -150,10 +150,11 @@ section,
 }
 
 .hero-container {
-  background-size: cover;
+  position: relative;
   display: flex;
   justify-content: center;
   overflow: hidden;
+  background-size: cover;
 }
 .hero-container:before {
   background: rgba(0, 0, 0, 0.1);
