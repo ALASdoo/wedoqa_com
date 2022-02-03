@@ -68,10 +68,16 @@ url = "team"
 weight = 4
 
 [[menu.main]]
+name = "Our Clients"
+pre = "#"
+url = "testimonial"
+weight = 5
+
+[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
-weight = 5
+weight = 6
 
 ############################# Default Parameters ##########################
 [params]
