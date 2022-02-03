@@ -5,14 +5,14 @@ aboutus:
   content: |
     Started in 2005 in Novi Sad, Serbia, as a part of [ALAS doo](https://www.alasdoo.com), WeDoQA is an outsource Software Testing and Quality Assurance company with broad experience in manual and automated testing and more than 30 professionals on board.
 
-    With our well-established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
+    With our well&#8209;established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
 
     With WeDoQA, our clients are guaranteed a professional experience, transparent communication, concise documentation, and exceptional results.
   aboutus_item:
     # aboutus item loop
     - title: Multifield experts
       icon: images/experts.svg
-      content: Our team consists of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non-IT input during weekly brainstorming sessions with everyday users. This approach takes your project to the next level, ensuring an intuitive, user-friendly, and valuable product. This is where we really shine!
+      content: Our team consists of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non&#8209;IT input during weekly brainstorming sessions with everyday users. This approach takes your project to the next level, ensuring an intuitive, user&#8209;friendly, and valuable product. This is where we really shine!
 
       # aboutus item loop
     - title: Implementation in any stage
@@ -22,9 +22,9 @@ aboutus:
       # aboutus item loop
     - title: All types of projects
       icon: images/projects.svg
-      content: We work with start-ups on their proprietary software and apps, provide third-party testing for developers, help established corporations elevate their project outcomes. Our experience and expertise enables us to consult on and test any type of software to ensure quality, compliance, function, and positive user-experience.
+      content: We work with start&#8209;ups on their proprietary software and apps, provide third&#8209;party testing for developers, help established corporations elevate their project outcomes. Our experience and expertise enables us to consult on and test any type of software to ensure quality, compliance, function, and positive user&#8209;experience.
 
       # aboutus item loop
     - title: In house Selenium framework
       icon: images/selenium.svg
-      content: Our in-house framework is designed for a diverse range of projects. As it is easily customisable per client's needs and project requirements, it empowers us to speed up script test writing, saving valuable time. We are constantly customizing and improving its efficiency and function.
+      content: Our in&#8209;house framework is designed for a diverse range of projects. As it is easily customisable per client's needs and project requirements, it empowers us to speed up script test writing, saving valuable time. We are constantly customizing and improving its efficiency and function.

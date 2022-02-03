@@ -14,7 +14,7 @@ team:
       image: images/team/vilmos.jpg
       categories: ['Management']
       designation: CEO
-      content: QA Ninja, Front-end Evangelist, Amateur Photographer, Wine Enthusiast
+      content: QA Ninja, Front&#8209;end Evangelist, Amateur Photographer, Wine Enthusiast
       link: ''
 
     # team item loop
@@ -45,7 +45,7 @@ team:
     - name: Aleksandra Kosanovic
       image: images/team/aleksandra.jpg
       categories: ['Developers']
-      designation: Front-End Developer
+      designation: Front&#8209;End Developer
       content: Angular Developer, Coffee Lover, Yogi Enthusiast
       link: ''
 
@@ -87,7 +87,7 @@ team:
       image: images/team/dragan.jpg
       categories: ['Manual QA Engineers']
       designation: QA Engineer
-      content: Music and Music Festivals addict, Video-gamer, Traveler, Sociologist wanna be
+      content: Music and Music Festivals addict, Video&#8209;gamer, Traveler, Sociologist wanna be
       link: ''
 
     # team item loop
@@ -111,7 +111,7 @@ team:
       image: images/team/ivana.jpg
       categories: ['Manual QA Engineers']
       designation: QA Engineer
-      content: HOG games addict, Travel maniac, Ping-pong guru
+      content: HOG games addict, Travel maniac, Ping&#8209;pong guru
       link: ''
 
     # team item loop
@@ -134,7 +134,7 @@ team:
     - name: Luka Pavlica
       image: images/team/luka.jpg
       categories: ['Developers']
-      designation: Back-End Developer
+      designation: Back&#8209;End Developer
       content: I am constantly trying to improve myself, Big fan of martial arts and love watching good movies in free time
       link: ''
 
@@ -158,7 +158,7 @@ team:
     - name: Milica Lazic
       image: images/team/milica.jpg
       categories: ['Developers']
-      designation: Back-End Developer
+      designation: Back&#8209;End Developer
       content: Biker, Hiker, Hedonist, Just go with the flow
       link: ''
 
@@ -166,7 +166,7 @@ team:
     - name: Miroljub Arbutina
       image: images/team/miroljub.jpg
       categories: ['Developers']
-      designation: Back-End Developer
+      designation: Back&#8209;End Developer
       content: Python sage, Basketball legend, Hiking lover
       link: ''
 
@@ -174,7 +174,7 @@ team:
     - name: Nemanja Milenkovic
       image: images/team/nemanja.jpg
       categories: ['Developers']
-      designation: Back-End Developer
+      designation: Back&#8209;End Developer
       content: Gym addict, Health enthusiast, Believer in hard work
       link: ''
 
@@ -182,7 +182,7 @@ team:
     - name: Noemi Szabados Szabo
       image: images/team/noemi.jpg
       categories: ['Developers']
-      designation: Front-End Developer
+      designation: Front&#8209;End Developer
       content: Bookworm, BuJo addict
       link: ''
 
@@ -207,14 +207,14 @@ team:
       image: images/team/tamas.jpg
       categories: ['Automated QA Engineers']
       designation: Automated QA Engineer
-      content: E-sports fan, Gamer, PBHB Archer
+      content: E&#8209;sports fan, Gamer, PBHB Archer
       link: ''
 
     # team item loop
     - name: Tibor Szakmany
       image: images/team/tibor_szakmany.jpg
       categories: ['Developers']
-      designation: Back-End Developer
+      designation: Back&#8209;End Developer
       content: Master of Plone, Bug slayer, The first of his name
       link: ''
 
@@ -222,8 +222,8 @@ team:
     - name: Tihomir Popov
       image: images/team/tihomir.jpg
       categories: ['Developers']
-      designation: Front-End Developer
-      content: JS Ninja, Sci-fi and Fantasy bookworm, Biker Hiker Camper, Scout Leader, Kite Enthusiast, Board game geek
+      designation: Front&#8209;End Developer
+      content: JS Ninja, Sci&#8209;fi and Fantasy bookworm, Biker Hiker Camper, Scout Leader, Kite Enthusiast, Board game geek
       link: ''
 
     # team item loop
@@ -247,7 +247,7 @@ team:
       image: images/team/horvatzoltan.jpg
       categories: ['Automated QA Engineers']
       designation: Automated QA Engineer
-      content: (e-)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
+      content: (e&#8209;)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
       link: ''
 
     # team item loop
@@ -255,5 +255,5 @@ team:
       image: images/team/zoltan.jpg
       categories: ['Automated QA Engineers']
       designation: Automated QA Engineer
-      content: Biker, E-sports fan, Gamer
+      content: Biker, E&#8209;sports fan, Gamer
       link: ''

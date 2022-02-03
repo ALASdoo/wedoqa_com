@@ -3,7 +3,7 @@ service:
   enable: true
   title: Our services
   description: |
-    WeDoQA can assist at any stage of the development process: from Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non-IT user testing to ensure your software does more than function but is intuitive and user-friendly.
+    WeDoQA can assist at any stage of the development process: from Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non&#8209;IT user testing to ensure your software does more than function but is intuitive and user&#8209;friendly.
 
     Our mission is to ensure superior software quality while optimizing our clients' time and budget.
   service_item:
@@ -11,10 +11,10 @@ service:
       title: Manual testing
       content: |
         * Testing for web and mobile applications
-        * Cross-browser and cross-platform testing
+        * Cross&#8209;browser and cross&#8209;platform testing
         * Regression, Functional, Performance, Acceptance, Compliance, UI/UX Testing, and more
-        * Advising developers on next-step fixes per project specifications
-        * Non-IT user testing to assess and enhance the user experience
+        * Advising developers on next&#8209;step fixes per project specifications
+        * Non&#8209;IT user testing to assess and enhance the user experience
         * Testing for full project specs and region/industry compliance
 
     - icon: images/automated.svg
