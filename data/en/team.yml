@@ -196,7 +196,7 @@ team:
 
     # team item loop
     - name: Tajana Somogyi
-      image: images/team/vilmos.jpg
+      image: images/team/tajana.jpg
       categories: ['Manual QA Engineers', 'Designers']
       designation: Designer / UX / QA
       content: Web and Graphic Designer, UX fanatic, Manual QA Tester, Foodie, Arts and Nature Lover
