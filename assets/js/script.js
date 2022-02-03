@@ -13,7 +13,7 @@ jQuery(function ($) {
   /*	lazy load initialize
 	/* ========================================================================= */
 
-  const observer = lozad(); // lazy loads elements with default selector as ".lozad"
+  var observer = lozad(); // lazy loads elements with default selector as ".lozad"
   observer.observe();
 
   /* ========================================================================= */
@@ -76,7 +76,7 @@ jQuery(function ($) {
 	/* ========================================================================= */
 
   var html_body = $('html, body');
-  $('nav a, .page-scroll').on('click', function () {
+  $('.navbar-nav a, .page-scroll').on('click', function () {
     //use page-scroll class in any HTML tag for scrolling
     if (
       location.pathname.replace(/^\//, '') ===
@@ -114,6 +114,21 @@ jQuery(function ($) {
     },
   });
 
+
+  /* ========================================================================= */
+  /*	close menu on click outside header or click on navigation item
+  /* ========================================================================= */
+  $(window).on('click', function (e) {
+    if ($(e.target.closest('.navbar')).length > 0 && !$(e.target.closest('.navbar a')).length > 0) {
+      return;
+    }
+
+    var navbar_collaps = $('.navbar-collapse');
+    if (navbar_collaps.hasClass('show')) {
+      $('.navbar-toggler').click()
+    }
+  })
+
   /* ========================================================================= */
   /*	counter up
 	/* ========================================================================= */
@@ -149,4 +164,27 @@ jQuery(function ($) {
   $(window).on('scroll', function () {
     counter();
   });
+
+
+  /* ========================================================================= */
+  /*	Reduce textarea on small screens
+  /* ========================================================================= */
+
+  var messageHTML = $('#message')[0];
+  if ($(window).innerHeight() <= 600) {
+    messageHTML.rows = 5;
+  }
+  else {
+    messageHTML.rows = 10;
+  }
+
+
+  /**
+   * Set height to Hero section based on the browser height
+   * fix flickering 
+   * https://css-tricks.com/the-trick-to-viewport-units-on-mobile/
+   */
+    let vh = window.innerHeight * 0.01;
+    document.documentElement.style.setProperty('--vh', `${vh}px`);
+
 });
