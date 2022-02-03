@@ -162,6 +162,14 @@ section,
 .hero-area:before {
   background: transparent;
 }
+@media (max-width: 990px) {
+  .hero-area:before {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  .hero-artwork {
+    opacity: 0.5;
+  }
+}
 
 .hero-area .block {
   width: 100%;
