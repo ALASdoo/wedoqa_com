@@ -46,7 +46,7 @@ team:
       image: images/team/ivana.jpg
       categories: ['Manual QA']
       designation: QA Lead
-      content: HOG games addict, Travel maniac, Ping&#8209;pong guru
+      content: Perfectionist in QA, loves traveling, snowboarding, HOG and ping-pong.
       link: ''
 
     # team item loop
@@ -54,7 +54,7 @@ team:
       image: images/team/aleksa.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Bug whisperer, Frenchie owner, Movies and TV shows addict, Master of PES and NBA
       link: ''
 
     # team item loop
@@ -62,7 +62,7 @@ team:
       image: images/team/aleksandar.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: QA tester, gamer and traveler
       link: ''
 
     # team item loop
@@ -86,7 +86,7 @@ team:
       image: images/team/ana.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: QA enthusiast, Art and Nature Lover
       link: ''
 
     # team item loop
@@ -127,7 +127,7 @@ team:
       image: images/team/dorijan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: MTB adventurer, MEME master, Bianconero di Belgrado, World's greatest partier
       link: ''
 
     # team item loop
@@ -135,7 +135,7 @@ team:
       image: images/team/dragan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: Music and Music Festivals addict, Video&#8209;gamer, Traveler, Sociologist wanna be
+      content: Music and Music Festivals addict. Video&#8209;gamer. Digital nomad, Extrovert
       link: ''
 
     # team item loop
@@ -143,7 +143,7 @@ team:
       image: images/team/dusan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Testing, playing, partying. Sometimes all three at the same time.
       link: ''
 
     # team item loop
@@ -151,7 +151,7 @@ team:
       image: images/team/eduard.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: ---
+      content: Social dancer, Gamer, Photography enthusiast, Master chef, Favorite genres to watch/read are Horror/Mystery/Thriller
       link: ''
 
     # team item loop
@@ -159,7 +159,7 @@ team:
       image: images/team/filipk.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Curious by nature (and by profession), bad jokes dispenser, music and literature enthusiast
       link: ''
 
     # team item loop
@@ -167,7 +167,7 @@ team:
       image: images/team/filipm.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Master of useless information, cat whisperer
       link: ''
 
     # team item loop
@@ -175,7 +175,7 @@ team:
       image: images/team/ines.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: Botany nerd, Tango milonguera, Figure skating fanatic
+      content: When you look annoyed all the time, people think that you're busy. - George Costanza
       link: ''
 
     # team item loop
@@ -199,7 +199,7 @@ team:
       image: images/team/jovan.jpg
       categories: ['Developers']
       designation: Python Developer
-      content: ---
+      content: Problem solver, Quick learner, Book lover, Engineer to the bone
       link: ''
 
     # team item loop
@@ -207,7 +207,7 @@ team:
       image: images/team/jovana.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Pub quiz fanatic, movie addict, blues&rock lover
       link: ''
 
     # team item loop
@@ -239,7 +239,7 @@ team:
       image: images/team/mihailo.jpg
       categories: ['Developers']
       designation: Back&#8209;End Developer
-      content: ---
+      content: Software engineer by day, (salsa) dancer by night. Automotive enthusiast and sim racer.
       link: ''
 
     # team item loop
@@ -255,7 +255,7 @@ team:
       image: images/team/milorad.jpg
       categories: ['Developers']
       designation: Back&#8209;End Developer
-      content: ---
+      content: Biker, Hiker, Welder, Call of Duty fan
       link: ''
 
     # team item loop
@@ -263,7 +263,7 @@ team:
       image: images/team/milosjevtic.jpg
       categories: ['Developers']
       designation: Python Developer
-      content: ---
+      content: In love with Python, Serbian traditional cuisine aficionado, Sportsman
       link: ''
 
     # team item loop
@@ -271,7 +271,7 @@ team:
       image: images/team/milos.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: ---
+      content: Climber of small mountains, chaser of bigger dreams. Has used "Python for frontend" in a sentence.
       link: ''
 
     # team item loop
@@ -303,7 +303,7 @@ team:
       image: images/team/predrag.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: ---
+      content: Fantasy and Sci-fi lover, social-media and metaverse addict, an adventurer
       link: ''
 
     # team item loop
@@ -311,7 +311,7 @@ team:
       image: images/team/sandra.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: ---
+      content: amateur singer, kettlebell enthusiast, avid meme user, binge watcher, millennial
       link: ''
 
     # team item loop
@@ -319,7 +319,7 @@ team:
       image: images/team/stefan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Dc Comics fan, Book collector, Ardent rocker, WOW lvl Pro, Actor wanna be
       link: ''
 
     # team item loop
@@ -327,7 +327,7 @@ team:
       image: images/team/tajana.jpg
       categories: ['Manual QA', 'Designers']
       designation: Designer / UX / QA
-      content: Web and Graphic Designer, UX fanatic, Manual QA Tester, Foodie, Arts and Nature Lover
+      content: passionate about UX, arts and crafts enthusiast, Audible Master, foodie, hiker, Tribal Fusion dancer
       link: ''
 
     # team item loop
@@ -375,7 +375,7 @@ team:
       image: images/team/zavisa.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Newborn dad, temporarily a former game enthusiast, Guarana maniac and a great adventurer.
       link: ''
 
     # team item loop
