@@ -3,14 +3,13 @@ service:
   enable: true
   title: Our services
   description: |
-    WeDoQA can assist at any stage of the development process: from Project Consulting to Full Project Management, QA Lead, and Manual or Automated Quality Assurance. This includes non&#8209;IT user testing to ensure your software does more than function but is intuitive and user&#8209;friendly.
+    We offer both a staff augmentation approach and a managed service. Service packages vary per client's needs, from manual and automated quality assurance, QA lead, project consulting to full project management.
 
-    Our mission is to ensure superior software quality while optimizing our clients' time and budget.
   service_item:
     - icon: images/manual.svg
       title: Manual testing
       content: |
-        * Testing for web and mobile applications
+        * Testing for web-based applications, websites, and mobile applications
         * Cross&#8209;browser and cross&#8209;platform testing
         * Regression, Functional, Performance, Acceptance, Compliance, UI/UX Testing, and more
         * Advising developers on next&#8209;step fixes per project specifications
@@ -29,7 +28,7 @@ service:
     - icon: images/pm.svg
       title: Project Management
       content: |
-        * Innovative project management solutions at every stage of a development process
+        * Innovative project management solutions at every stage of the development process
         * Clear communication every step of the way
-        * Ensuring your project is on time, on track and on budget using your preferred PM workflow — Agile, Scrum, Kanban, and Traditional methodologies
+        * Making sure your project is on time, on track, and on budget using your preferred PM workflow — Agile, Scrum, Kanban, and Traditional methodologies
         * Working within any PM tool including Atlassian JIRA, Rally, Trello, Asana, GitHub, Gitlab, Clubhouse, TestRail, Redmine

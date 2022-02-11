@@ -68,7 +68,7 @@ url = "team"
 weight = 4
 
 [[menu.main]]
-name = "Our Clients"
+name = "Clients"
 pre = "#"
 url = "testimonial"
 weight = 5

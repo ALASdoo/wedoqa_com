@@ -17,5 +17,5 @@ selenium:
     * Customizable report generation
     * Screenshots and logging
     * UI verification against database or API
-    * TestRail integration
+    * TestRail and XRay integration
     * Load Testing using Amazon AWS, JMeter and Selenium
