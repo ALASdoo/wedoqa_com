@@ -365,8 +365,8 @@ team:
     # team item loop
     - name: Vlatko Dimitrovski
       image: images/team/vlatko.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
+      categories: ['Development']
+      designation: Back&#8209;End Developer
       content: Nature, Chess and sport enthusiast, Car specialist, Gourmet
       link: ''
 
@@ -381,8 +381,8 @@ team:
     # team item loop
     - name: Zoltán Horvát
       image: images/team/zoltan.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
+      categories: ['Development']
+      designation: Back&#8209;End Developer
       content: (e&#8209;)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
       link: ''
 

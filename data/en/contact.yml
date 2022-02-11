@@ -3,15 +3,12 @@ contact:
   enable: true
   title: Contact Us
   content: |
-    #### Get started with WeDoQA today!
+    #### Starting a new project?
+    #### Struggling with quality issues on an existing one, or in need of QA for a finished software?
 
-    Reach out to start your project from scratch, complete existing projects, or test finished software for function, efficiency, and compliance.
+    Contact us to find out about quality assurance possibilities tailored to your exact situation.
 
-    #### Not sure what is the best testing approach for your project?
-
-    We know the right questions to hit the ground running!
-
-    Make an appointment with our Senior Quality Assurance specialist and receive a free consultation about your QA and Software Testing needs.
+    Make an appointment with our senior specialist and receive a free consultation about your software quality assurance and project management needs.
 
   # Contact details
   contact_list:

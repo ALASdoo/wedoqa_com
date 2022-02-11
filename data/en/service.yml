@@ -2,7 +2,7 @@
 service:
   enable: true
   title: Our services
-  description: |
+  content: |
     We offer both a staff augmentation approach and a managed service. Service packages vary per client's needs, from manual and automated quality assurance, QA lead, project consulting to full project management.
 
   service_item:

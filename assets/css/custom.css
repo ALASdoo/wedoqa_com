@@ -25,7 +25,6 @@ a {
 h3,
 h4 {
   margin-bottom: 15px;
-  font-weight: 700;
 }
 a:focus,
 a:hover {
@@ -364,8 +363,9 @@ section,
   text-decoration: underline;
 }
 
-#cta .container {
+#cta .block {
   max-width: 674px;
+  margin: 0 auto;
 }
 
 #cta li {
@@ -405,6 +405,11 @@ section,
 #selenium .artwork {
   padding: 0 30px;
 }
+@media (max-width: 992px) {
+  #selenium .artwork {
+    padding-bottom: 50px;
+  }
+}
 
 .testimonial:before {
   background: rgba(0, 0, 0, 0.4);
@@ -422,10 +427,13 @@ section,
   padding: 20px;
   opacity: 0.75;
 }
+.quote img {
+  opacity: 0.5;
+}
 .client-meta h3 {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 100;
-  font-size: 20px;
+  font-size: 23px;
 }
 .client-meta span {
   color: rgba(255, 255, 255, 0.5);
@@ -433,6 +441,9 @@ section,
 .slick-arrow,
 .client-comment p {
   color: rgba(255, 255, 255, 0.9);
+}
+.slick-arrow {
+  color: rgba(255, 255, 255, 0.5);
 }
 .client-comment p {
   font-style: italic;
