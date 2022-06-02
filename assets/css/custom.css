@@ -760,6 +760,16 @@ section,
   line-height: 50px;
 }
 
+/* more spacing for larger names e.g. Jovana Rončević-Stanojević */
+@media screen and (min-width: 768px) { 
+  .team-text {
+    height: 7.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
 .team-text h4 {
   color: rgba(255, 255, 255, 0.8);
   padding: 0 16px;
@@ -768,12 +778,7 @@ section,
   color: rgba(255, 255, 255, 0.6);
   font-size: 20px;
 }
-@media (max-width: 1199px) {
-  .team-text h4 {
-    min-height: 56px;
-    margin-bottom: 0;
-  }
-}
+
 .form-meghna .form-group textarea {
   min-height: 50px;
 }
