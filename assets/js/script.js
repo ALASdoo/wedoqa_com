@@ -48,14 +48,7 @@ jQuery(function ($) {
     var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
       itemSelector: '.shuffle-item',
       buffer: 1,
-      initialSort: {
-        compare: sortByID
-      }
     });
-
-    function sortByID(a, b) {
-      return a.id - b.id
-    }
 
     jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
       var input = evt.currentTarget;
