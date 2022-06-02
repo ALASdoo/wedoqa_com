@@ -48,11 +48,9 @@
 
 		<div class="row shuffle-wrapper justify-content-center">
 			{{"<!-- team item -->" | safeHTML}}
-			{{ range $ind, $team_item := .team_item }}
+			{{ range .team_item }}
 			<div class="col-lg-4 col-md-6 shuffle-item"
-				data-id="{{$ind}}"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-				
 				<div class="team-block mb-5">
 					<img class="team-placeholder" src="{{ site.Params.team_placeholder | absURL }}" alt="placeholder img">
 					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null; this.src='{{ .image | absURL }}'" alt="{{ .name }}">
