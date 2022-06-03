@@ -6,7 +6,10 @@ body {
 }
 
 p,
-li {
+li, 
+span, 
+input,
+textarea {
   font-family: 'Roboto', sans-serif;
 }
 
@@ -465,12 +468,27 @@ section,
   padding-bottom: 50px;
 }
 
-.contact-info {
-  padding-right: 60px;
+@media screen and (max-width: 992px) {
+  .contact-info {
+    text-align: center;
+    max-width: 680px;
+  }
 }
+@media screen and (min-width: 992px) {
+  .contact-info {
+    padding-right: 60px;
+  }
+}
+
 .con-info {
   display: flex;
+  margin-bottom: 1rem;
 }
+
+.contact-info h4 {
+  margin-bottom: 30px;
+}
+
 .con-info i {
   display: inline-block;
   margin-top: -3px;
