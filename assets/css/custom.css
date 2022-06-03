@@ -501,8 +501,8 @@ section,
 
 .contact-details {
   margin-top: 60px;
-  font-size: 20px;
-  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.65);
 }
 @media (max-width: 575.98px) {
   .contact-details {
