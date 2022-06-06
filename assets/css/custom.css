@@ -339,12 +339,11 @@ section,
   color: #fff;
 }
 .hero-btn-transparent:active,
-.hero-btn-transparent:hover {
-  border-color: #26845b !important;
-}
+.hero-btn-transparent:hover,
 .hero-btn-transparent:focus {
-  background-color: transparent;
-  border-color: #fff !important;
+  background-color: #e8e8e8;
+  border-color: #e8e8e8 !important;
+  color: #26845b;
 }
 
 .cookie-box .btn {
@@ -788,6 +787,16 @@ section,
 
 .team-block .caption .search-icon i {
   line-height: 50px;
+}
+
+/* more spacing for larger names e.g. Jovana Rončević-Stanojević */
+@media screen and (min-width: 768px) {
+  .team-text {
+    height: 7.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 .team-text h4 {
