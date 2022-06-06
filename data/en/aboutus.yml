@@ -8,9 +8,11 @@ aboutus:
     With our well&#8209;established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
 
     With WeDoQA, our clients are guaranteed a professional experience, transparent communication, concise documentation, and exceptional results.
+  mission: Our mission is to improve both the quality of the software and the development process, with transparency, reliability, and exceptional quality of QA.
   brochure:
     link: files/WeDoQA_Brochure.pdf
     title: Brochure
+    content: TODO text that describes the brochure
   aboutus_item:
     # aboutus item loop
     - title: Multifield experts

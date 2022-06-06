@@ -50,6 +50,14 @@ team:
       link: ''
 
     # team item loop
+    - name: Dragan Martinović
+      image: images/team/dragan.jpg
+      categories: ['Manual QA']
+      designation: QA Lead
+      content: Music and Music Festivals addict. Video&#8209;gamer. Digital nomad, Extrovert
+      link: ''
+
+    # team item loop
     - name: Aleksa Petrović
       image: images/team/aleksa.jpg
       categories: ['Manual QA']
@@ -90,20 +98,28 @@ team:
       link: ''
 
     # team item loop
-    - name: Andrea Vučinić
-      image: images/team/andrea.jpg
-      categories: ['Management']
-      designation: Office Manager
-      content: ---
-      link: ''
-
-    # team item loop
-    - name: Bojana Lazarevic
+    - name: Bojana Lazarević
       image: images/team/bojana.jpg
       categories: ['Manual QA']
       designation: QA Engineer
       content: >
         "f u cn rd ths, u cn gt a gd jb n sftwr tstng." - Anonymus
+      link: ''
+
+    # team item loop
+    - name: Boris Janković
+      image: images/team/boris.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: ---
+      link: ''
+
+    # team item loop
+    - name: Damjan Marcikić
+      image: images/team/damjan.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: ---
       link: ''
 
     # team item loop
@@ -131,19 +147,19 @@ team:
       link: ''
 
     # team item loop
-    - name: Dragan Martinović
-      image: images/team/dragan.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Music and Music Festivals addict. Video&#8209;gamer. Digital nomad, Extrovert
-      link: ''
-
-    # team item loop
     - name: Dušan Kiš
       image: images/team/dusan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
       content: Testing, playing, partying. Sometimes all three at the same time.
+      link: ''
+
+    # team item loop
+    - name: Dušan Vejnović
+      image: images/team/dusan_vejnovic.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: ---
       link: ''
 
     # team item loop
@@ -157,8 +173,8 @@ team:
     # team item loop
     - name: Filip Kovač
       image: images/team/filipk.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
+      categories: ['Automated QA']
+      designation: Automated QA Engineer
       content: Curious by nature (and by profession), bad jokes dispenser, music and literature enthusiast
       link: ''
 
@@ -168,6 +184,14 @@ team:
       categories: ['Manual QA']
       designation: QA Engineer
       content: Master of useless information, cat whisperer
+      link: ''
+
+    # team item loop
+    - name: František Prokopec
+      image: images/team/frantisek.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: ---
       link: ''
 
     # team item loop
@@ -187,19 +211,19 @@ team:
       link: ''
 
     # team item loop
+    - name: Jelena Obradović
+      image: images/team/jelena_obradovic.jpg
+      categories: ['Management']
+      designation: HR
+      content: ---
+      link: ''
+
+    # team item loop
     - name: Jelena Petrović
       image: images/team/jelena.jpg
       categories: ['Manual QA']
       designation: QA Engineer
       content: Social Media addict, Thriller bookworm, Coffee Maniac, Nature lover
-      link: ''
-
-    # team item loop
-    - name: Jovan Vunić
-      image: images/team/jovan.jpg
-      categories: ['Development']
-      designation: Python Developer
-      content: Problem solver, Quick learner, Book lover, Engineer to the bone
       link: ''
 
     # team item loop
@@ -227,26 +251,18 @@ team:
       link: ''
 
     # team item loop
-    - name: Marta Gajin
-      image: images/team/marta.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Manager by profession, QA by choice, Samba passista, Culinary artist
-      link: ''
-
-    # team item loop
-    - name: Mihailo Mandić
-      image: images/team/mihailo.jpg
+    - name: Milan Stojanović
+      image: images/team/milan.jpg
       categories: ['Development']
-      designation: Back&#8209;End Developer
-      content: Software engineer by day, (salsa) dancer by night. Automotive enthusiast and sim racer.
+      designation: Front&#8209;End Developer
+      content: ---
       link: ''
 
     # team item loop
-    - name: Milica Lazić
+    - name: Milica Đuričić
       image: images/team/milica.jpg
-      categories: ['Development']
-      designation: Back&#8209;End Developer
+      categories: ['Automated QA']
+      designation: Automated QA Engineer
       content: Biker, Hiker, Hedonist, Just go with the flow
       link: ''
 
@@ -280,6 +296,14 @@ team:
       categories: ['Development']
       designation: Back&#8209;End Developer
       content: Python sage, Basketball legend, Hiking lover
+      link: ''
+
+    # team item loop
+    - name: Neda Bogdanović
+      image: images/team/neda.jpg
+      categories: ['Management']
+      designation: Office Manager
+      content: ---
       link: ''
 
     # team item loop
@@ -325,8 +349,8 @@ team:
     # team item loop
     - name: Tajana Somogyi
       image: images/team/tajana.jpg
-      categories: ['Manual QA', 'UX']
-      designation: Designer / UX / QA
+      categories: ['UX']
+      designation: UI/UX Designer
       content: passionate about UX, arts and crafts enthusiast, Audible Master, foodie, hiker, Tribal Fusion dancer
       link: ''
 
@@ -368,14 +392,6 @@ team:
       categories: ['Development']
       designation: Back&#8209;End Developer
       content: Nature, Chess and sport enthusiast, Car specialist, Gourmet
-      link: ''
-
-    # team item loop
-    - name: Zaviša Sauer
-      image: images/team/zavisa.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Newborn dad, temporarily a former game enthusiast, Guarana maniac and a great adventurer.
       link: ''
 
     # team item loop

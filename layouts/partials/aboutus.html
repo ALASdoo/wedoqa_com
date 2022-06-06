@@ -14,7 +14,11 @@
 					<div class="content pb-5">
 						{{ .content | markdownify }}
 					</div>
+					<div class="mission pb-5">
+						{{ .mission | markdownify }}
+					</div>
 					<div class="brochure pb-5">
+						<p>{{ .brochure.content | markdownify }}</p>
 						<a href="{{ .brochure.link }}">
 							{{ .brochure.title | markdownify }}
 						</a>
