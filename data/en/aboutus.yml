@@ -8,6 +8,9 @@ aboutus:
     With our well&#8209;established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
 
     With WeDoQA, our clients are guaranteed a professional experience, transparent communication, concise documentation, and exceptional results.
+  brochure:
+    link: files/WeDoQA_Brochure.pdf
+    title: Brochure
   aboutus_item:
     # aboutus item loop
     - title: Multifield experts

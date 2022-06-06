@@ -25,7 +25,9 @@
 					{{ range .contact_list }}
 					<div class="con-info clearfix">
 						<div class="con-info-icon">
-							<i class="{{ .icon }}"></i>
+							<div class="icon align-self-start mr-2">
+								<img src="{{ .icon }}" alt="" />
+							</div>
 						</div>
 						<div class="con-info-text">
 							<span>{{ .info | markdownify }}</span>
@@ -64,7 +66,9 @@
 			<div class="contact-details">
 				{{ range .contact_list }}
 				<div class="con-info clearfix">
-					<i class="{{ .icon }}"></i>
+					<div class="icon align-self-start">
+						<img src="{{ .icon }}" alt="" />
+					</div>
 					<span>{{ .info }}</span>
 				</div>
 				{{ end }}

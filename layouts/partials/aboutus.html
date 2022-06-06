@@ -14,12 +14,17 @@
 					<div class="content pb-5">
 						{{ .content | markdownify }}
 					</div>
+					<div class="brochure pb-5">
+						<a href="{{ .brochure.link }}">
+							{{ .brochure.title | markdownify }}
+						</a>
+					</div>
 				<div class="row">
 					{{ range .aboutus_item }}
-					<div class="col-lg-6">
+					<div class="col-lg-6 item">
 						<div class="media pb-5">
 							{{with .icon}}
-							<div class="icon align-self-start mr-3">
+							<div class="icon align-self-start mr-4">
 								<img src="{{ . }}" alt="" />
 							</div>
 							{{ end }}

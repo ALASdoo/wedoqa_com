@@ -12,10 +12,10 @@ contact:
 
   # Contact details
   contact_list:
-    - icon: ti-location-pin # themify icon pack : https://themify.me/themify-icons
+    - icon: images/pin.svg
       info: Rudjera Boskovica 20, Novi Sad, Serbia
 
-    - icon: ti-email # themify icon pack : https://themify.me/themify-icons
+    - icon: images/email.svg
       info: info@wedoqa.com
 
   # Contact form
