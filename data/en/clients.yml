@@ -1,0 +1,7 @@
+############################# call to action ##############################
+clients:
+  enable: true
+  image: 'images/clients.png'
+  title: 'Our Clients'
+  content: |
+    For over 16 years, we have been building trusting relationships with clients and their development teams around the world.

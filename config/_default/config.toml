@@ -70,7 +70,7 @@ weight = 4
 [[menu.main]]
 name = "Clients"
 pre = "#"
-url = "testimonial"
+url = "clients"
 weight = 5
 
 [[menu.main]]
