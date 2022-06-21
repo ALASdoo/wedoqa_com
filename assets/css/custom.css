@@ -74,6 +74,9 @@ section,
 .light-bg h3 {
   color: rgba(0, 0, 0, 0.7);
 }
+.medium-bg {
+  background-color: rgb(81 81 81);
+}
 #team {
   background-color: #252524;
 }
@@ -730,7 +733,7 @@ section,
 }
 
 /* Team image over placeholder */
-.img-fluid {
+#team .img-fluid {
   z-index: 1;
   position: absolute;
   left: 0;
