@@ -111,7 +111,7 @@ team:
       image: images/team/boris.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Sailed from the calm Mediterranean Sea into deep and dangerous QA waters. Arrr
       link: ''
 
     # team item loop
@@ -119,7 +119,7 @@ team:
       image: images/team/damjan.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: QA fanatic, music engineer & songwriter, Hakuna Matata enthusiast
       link: ''
 
     # team item loop
@@ -159,7 +159,7 @@ team:
       image: images/team/dusan_vejnovic.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: Sic Parvis Magna - Sir Francis Drake
       link: ''
 
     # team item loop
@@ -191,7 +191,7 @@ team:
       image: images/team/frantisek.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: ---
+      content: If someone is able to show me that what I think or do is not right, I will happily change, for I seek the truth, by which no one ever was truly harmed.
       link: ''
 
     # team item loop
@@ -215,7 +215,7 @@ team:
       image: images/team/jelena_obradovic.jpg
       categories: ['Management']
       designation: HR
-      content: ---
+      content: Lover of the written word, good listener and assertive communicator, master surprise maker
       link: ''
 
     # team item loop
@@ -255,7 +255,7 @@ team:
       image: images/team/milan.jpg
       categories: ['Development']
       designation: Front&#8209;End Developer
-      content: ---
+      content: Programmer by day, Musician by night. Street workout enthusiast
       link: ''
 
     # team item loop
@@ -303,7 +303,7 @@ team:
       image: images/team/neda.jpg
       categories: ['Management']
       designation: Office Manager
-      content: ---
+      content: Coffeeholic, popcorn lover and addicted to movies
       link: ''
 
     # team item loop
