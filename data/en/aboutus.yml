@@ -3,7 +3,7 @@ aboutus:
   enable: true
   title: About us
   content: |
-    WeDoQA, a subsidiary of [ALAS doo](https://www.alasdoo.com), is an outsourcing Software Quality Assurance company founded in 2005 in Novi Sad, Serbia. It is a company with broad experience in manual and automated testing and more than 50 professionals on board.
+    WeDoQA, a subsidiary of [ALAS doo](https://www.alasdoo.com), is an outsourcing Software Quality Assurance company founded in 2005 in Novi Sad, Serbia. It is a company with broad experience in manual and automated testing and more than 60 professionals on board.
 
     With our well&#8209;established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
 
@@ -11,8 +11,9 @@ aboutus:
   mission: Our mission is to improve both the quality of the software and the development process, with transparency, reliability, and exceptional quality of QA.
   brochure:
     link: files/WeDoQA_Brochure.pdf
-    title: Brochure
-    content: TODO text that describes the brochure
+    title: Open brochure
+    content: Learn more about our values and how we conduct projects in our brochure.
+    image: 'images/mission.svg'
   aboutus_item:
     # aboutus item loop
     - title: Multifield experts

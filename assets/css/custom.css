@@ -77,6 +77,11 @@ section,
 .medium-bg {
   background-color: rgb(81 81 81);
 }
+.medium-bg h2,
+.medium-bg h3,
+.medium-bg h4 {
+  color: rgba(0, 0, 0, 1);
+}
 #team {
   background-color: #252524;
 }
@@ -324,6 +329,7 @@ section,
   font-size: 16px;
   font-weight: 700;
   background-color: #2ea06f;
+  text-decoration: none!important;
 }
 .btn:hover,
 .btn:focus {
@@ -387,9 +393,14 @@ section,
     margin-right: -15px;
   }
 }
-
+#mission {
+  padding: 0;
+}
+h3.mission-statement {
+  color:rgba(255, 255, 255, 0.85);
+}
 #cta .block {
-  max-width: 674px;
+  max-width: 500px;
   margin: 0 auto;
   text-align: center;
 }
@@ -400,6 +411,7 @@ section,
 
 .call-to-action {
   background-attachment: initial;
+  background-position: center;
 }
 .call-to-action h2,
 .call-to-action p,
@@ -441,9 +453,6 @@ section,
   }
 }
 
-.testimonial:before {
-  background: rgba(0, 0, 0, 0.4);
-}
 .client-info {
   width: 80%;
 }
@@ -477,6 +486,14 @@ section,
 .client-comment p {
   font-style: italic;
   font-size: 25px;
+}
+#testimonial {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+#testimonial .title {
+  color: #f07f1d;
 }
 @media (max-width: 575.98px) {
   #testimonial {

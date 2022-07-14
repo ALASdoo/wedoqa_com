@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: 'images/hero-bg.jpg'
   artwork: 'images/hero.svg'
-  title: 'WeDoQA - Because Quality Matters!'
+  title: 'Because Quality Matters!'
   content: 'Providing complete Quality Assurance and Project Management solutions based on your specific needs and requirements.'
   button1:
     enable: true
