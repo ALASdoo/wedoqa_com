@@ -11,9 +11,9 @@ service:
       content: |
         * Testing for web-based applications, websites, and mobile applications
         * Cross&#8209;browser and cross&#8209;platform testing
-        * Regression, Functional, Performance, Acceptance, Compliance, UI/UX Testing, and more
+        * Regression, Functional, Performance, Acceptance, Compliance, UX Testing, etc.
         * Advising developers on next&#8209;step fixes per project specifications
-        * Non&#8209;IT user testing to assess and enhance the user experience
+        * Non&#8209;IT user testing to assess and enhance UX
         * Testing for full project specs and region/industry compliance
 
     - icon: images/automated.svg

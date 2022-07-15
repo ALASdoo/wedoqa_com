@@ -85,6 +85,9 @@ section,
 .semidark-bg {
   background-color: #252524;
 }
+#sales-points {
+  margin-bottom: -3rem!important;
+}
 #team {
   background-color: #252524;
 }
@@ -422,7 +425,7 @@ section,
 .call-to-action h2,
 .call-to-action p,
 .call-to-action li {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.8);
 }
 .call-to-action h2 {
   font-weight: 500;

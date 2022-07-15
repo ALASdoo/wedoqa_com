@@ -3,7 +3,7 @@
 {{ if $data.clients.clients.enable}}
 {{ with $data.clients.clients}}
 {{"<!-- Start Clients -->" | safeHTML}}
-<section id="clients" class="medium-bg section-sm">
+<section id="clients" class="medium-bg section">
 	<div class="container">
 		{{ if .title }}
 		<div class="row justify-content-center">
@@ -18,7 +18,7 @@
 		</div>
 		{{ end }}
 		<div class="row">
-			<div class="col-lg-12 artwork">
+			<div class="col-lg-12 artwork pb-5">
 				<!-- this image is for trigger this section fallback background image -->
 				<img class="img-fluid d-block lozad" src="{{ .image | absURL }}" />
 			</div>
