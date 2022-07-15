@@ -2,7 +2,7 @@
 testimonial:
   enable: true
   bg_image: images/testimonial.jpg
-  title: What our clients say about us?
+  title:
   testimonial_item:
     # testimonial item loop
     - name: Jeff Zucker, CEO ADVault, Inc. - MyDirectives.com

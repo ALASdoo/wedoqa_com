@@ -25,7 +25,7 @@
 				<img class="lozad" src="{{ .brochure.image | absURL }}" />
 			</div>
 			<div class="col-md-6 text-md-left text-center">
-				<h3 class="mission-statement">{{ .mission | markdownify }}</h3>
+				<p class="mission-statement">{{ .mission | markdownify }}</p>
 				<div class="brochure pb-5">
 					<p>{{ .brochure.content | markdownify }}</p>
 					<a href="{{ .brochure.link }}" class="btn btn-main">
@@ -36,7 +36,7 @@
 		</div>
 	</div>
 </section>
-<section class="section">
+<section class="section semidark-bg">
 	<div class="container">
 		<div class="row">
 			{{ range .aboutus_item }}

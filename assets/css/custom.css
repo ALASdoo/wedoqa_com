@@ -82,6 +82,9 @@ section,
 .medium-bg h4 {
   color: rgba(0, 0, 0, 1);
 }
+.semidark-bg {
+  background-color: #252524;
+}
 #team {
   background-color: #252524;
 }
@@ -106,6 +109,7 @@ section,
 
 .media h4 {
   font-size: 26px;
+  font-weight: 500;
 }
 
 .border-meghna {
@@ -395,9 +399,11 @@ section,
 }
 #mission {
   padding: 0;
+  color:rgba(255, 255, 255, .95);
 }
-h3.mission-statement {
-  color:rgba(255, 255, 255, 0.85);
+.mission-statement {
+  font-weight: 500;
+  font-size: 22px;
 }
 #cta .block {
   max-width: 500px;
@@ -453,8 +459,19 @@ h3.mission-statement {
   }
 }
 
+#clients {
+  color: rgba(255, 255, 255, 0.95);
+}
+#clients .title h2 {
+  color:rgba(255, 255, 255, 0.9);
+}
 .client-info {
   width: 80%;
+}
+@media (max-width: 575.98px) {
+  .client-info {
+    width: 100%;
+  }
 }
 .slick-slider {
   position: initial;
@@ -470,7 +487,8 @@ h3.mission-statement {
   opacity: 0.8;
 }
 .client-meta h3 {
-  color: rgba(255, 255, 255, 0.7);
+  /* color: rgba(255, 255, 255, 0.7); */
+  color: #2ea06f;
   font-size: 23px;
 }
 .client-meta span {
@@ -514,6 +532,10 @@ h3.mission-statement {
 
 .contact-info {
   padding-right: 60px;
+}
+.contact-info p {
+  font-size: 20px;
+  padding-top: 20px;
 }
 .con-info {
   display: flex;
