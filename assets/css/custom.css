@@ -6,7 +6,10 @@ body {
 }
 
 p,
-li {
+li,
+span,
+input,
+textarea {
   font-family: 'Roboto', sans-serif;
 }
 
