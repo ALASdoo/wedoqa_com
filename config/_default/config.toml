@@ -1,5 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://wedoqa.netlify.com/"
+baseURL = "https://www.wedoqa.com/"
+# baseURL = "https://wedoqa.netlify.com/"
 title = "WeDoQA by ALAS d.o.o."
 theme = "meghna-hugo"
 # post pagination
