@@ -1,0 +1,21 @@
+############################# call to action ##############################
+selenium:
+  enable: true
+  image: 'images/selenium-artwork.svg'
+  title: ''
+  content: |
+    ### Selenium framework
+
+    We provide commercial Selenium support but also have an in&#8209;house Selenium framework that empowers us to get your project up and running with speed and ease. To optimize testing, we implement the Page Object Model to automate our process.
+
+    * Java&#8209;based application
+    * Ant or Maven build and dependency management
+    * TestNG or JUnit test frameworks
+    * Parallel test running
+    * Custom made and well&#8209;tested wait methods
+    * IE, Edge, Chrome and Firefox support
+    * Customizable report generation
+    * Screenshots and logging
+    * UI verification against database or API
+    * TestRail and XRay integration
+    * Load Testing using Amazon AWS, JMeter and Selenium

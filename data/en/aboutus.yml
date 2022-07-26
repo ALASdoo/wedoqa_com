@@ -1,0 +1,36 @@
+############################# aboutus ###################################
+aboutus:
+  enable: true
+  title: About us
+  content: |
+    WeDoQA, a subsidiary of [ALAS doo](https://www.alasdoo.com), is an outsourcing Software Quality Assurance company founded in 2005 in Novi Sad, Serbia. It is a company with broad experience in manual and automated testing and more than 60 professionals on board.
+
+    With our well&#8209;established workflows and conscientious attention to detail, we are able to help our clients deliver software that meets the highest standards.
+
+    With WeDoQA, our clients are guaranteed a professional experience, transparent communication, concise documentation, and exceptional results.
+  mission: Our mission is to improve both the quality of the software and the development process, with transparency, reliability, and exceptional quality of QA.
+  brochure:
+    link: files/WeDoQA_Brochure.pdf
+    title: Open brochure
+    content: Learn more about our values and how we conduct projects in our brochure.
+    image: 'images/mission.svg'
+  aboutus_item:
+    # aboutus item loop
+    - title: Multifield experts
+      icon: images/experts.svg
+      content: Our team consists of tenured and trained industry experts who remain on the cutting edge of all industry developments. While we test for technical specs and compliance, we seek out non&#8209;IT input during weekly brainstorming sessions with everyday users. This approach takes your project to the next level, ensuring an intuitive, user&#8209;friendly, and valuable product.
+
+      # aboutus item loop
+    - title: Implementation in any stage
+      icon: images/stages.svg
+      content: We understand that project plans change, which is why we can test the final product or take over project management at any stage of the development cycle. We can start from scratch or jump in when you hit a rough patch. With our dedication to clear communication we know the questions to ask to hit the ground running.
+
+      # aboutus item loop
+    - title: All types of projects
+      icon: images/projects.svg
+      content: We work with start&#8209;ups on their proprietary software and apps, provide third&#8209;party testing for developers, help established corporations elevate their project outcomes. Our experience and expertise enables us to consult on and test any type of software to ensure quality, compliance, function, and positive user&#8209;experience.
+
+      # aboutus item loop
+    - title: In house Selenium framework
+      icon: images/selenium.svg
+      content: Our in&#8209;house framework is designed for a diverse range of projects. As it is easily customisable per client's needs and project requirements, it empowers us to speed up script test writing, saving valuable time. We are constantly customizing and improving its efficiency and function.

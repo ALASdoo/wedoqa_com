@@ -1,0 +1,9 @@
+############################# call to action ##############################
+clients:
+  enable: true
+  image: 'images/clients.png'
+  title: 'Our Clients'
+  content1: |
+    For over 16 years, we have been building trusting relationships with clients and their development teams around the world. We are working for all types of business, from small businesses and startups, to established global corporations.
+  content2: |
+    Our clients are from a vast range of industries: accounting, data analysis, insurance, investment, finance, marketing, publishing, technology, education, telecommunication, manufacturing, transport, health, healthcare, tourism.

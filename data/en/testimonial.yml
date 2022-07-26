@@ -1,0 +1,65 @@
+################################# Testimonial #########################
+testimonial:
+  enable: true
+  bg_image: images/testimonial.jpg
+  title:
+  testimonial_item:
+    # testimonial item loop
+    - name: Jeff Zucker, CEO ADVault, Inc. - MyDirectives.com
+      image:
+      image_webp:
+      content: We have worked with the WeDoQA team for over ten years. They have always exceeded our high expectations. The team is focused, smart, organized and consistently delivers results. We highly recommend them if you’re looking for a best&#8209;in&#8209;class QA partner.
+
+    # testimonial item loop
+    - name: Jamil Greor, HyperMedia
+      image:
+      image_webp:
+      content: These guys always do a great job for us, can highly recommend for any testing work. Will definitely continue to use their services in the future.
+
+      # testimonial item loop
+    - name: Charles Swartz, SimplyMap
+      image:
+      image_webp:
+      content: WeDoQA did a great job on this initial testing project. So well that we decided to continue to work with them on a separate hourly project. We are very happy with their work, skills, and communication. They are testing experts. We hope to have a long term relationship with WeDoQA.
+
+    # testimonial item loop
+    - name: Mike Lenyon
+      image:
+      image_webp:
+      content: Fabulous testing as always! Professional, excellent communication, needs very little instruction because he knows his craft and pursues it diligently.
+
+    # testimonial item loop
+    - name: Ben Hoffsteter
+      image:
+      image_webp:
+      content: WeDoQA are a slick professional team that delivered an excellent job with pinpoint accuracy. If you want an elite team, pick WeDoQA!
+
+    # testimonial item loop
+    - name: Lauren Coleman
+      image:
+      image_webp:
+      content: Excellent work, went above and beyond. Very detail oriented. Gave suggestions to improve the application, I will implement most of them. Very smart test plan and execution was perfect. Thank you.
+
+    # testimonial item loop
+    - name: Deven Kalra
+      image:
+      image_webp:
+      content: WeDoQA did a great job. They were willing to learn new tools to get the job done. He did a thorough job, provided continuous feedback, asked questions to clarify any doubts and produced good code. I would certainly hire him again.
+
+    # testimonial item loop
+    - name: David Hirschfeld, Tekyz
+      image:
+      image_webp:
+      content: Very professional. Produced excellent and complete test plans and completed the testing with a solid understanding of the requirements with a minimal amount of support from me.
+
+    # testimonial item loop
+    - name: Nick Baugartner
+      image:
+      image_webp:
+      content: Lightning fast work, and went beyond the scope of the project to please me. Excellent coder, highly recommended.
+
+    # testimonial item loop
+    - name: Wesley Padgett, Magnetiks
+      image:
+      image_webp:
+      content: Great Communication and went the extra mile. Great attitude and we will use them again for more projects.

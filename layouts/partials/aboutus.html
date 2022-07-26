@@ -1,0 +1,62 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.aboutus.aboutus.enable }}
+{{ with $data.aboutus.aboutus }}
+{{"<!-- aboutus -->" | safeHTML}}
+<section class="section section-bg" id="aboutus">
+	<div class="container">
+		<div class="row">
+			<div class="content-block col-lg-12">
+					<div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+						<h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+							{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
+					</div>
+					<div class="content">
+						{{ .content | markdownify }}
+					</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="mission" class="section medium-bg">
+	<div class="container">
+		<div class="row mission pt-5">
+			<div class="col-md-6 mission-artwork">
+				<img class="lozad" src="{{ .brochure.image | absURL }}" />
+			</div>
+			<div class="col-md-6 text-md-left text-center">
+				<p class="mission-statement">{{ .mission | markdownify }}</p>
+				<div class="brochure pb-5">
+					<p>{{ .brochure.content | markdownify }}</p>
+					<a href="{{ .brochure.link }}" class="btn btn-main">
+						{{ .brochure.title }}
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section id="sales-points" class="section semidark-bg">
+	<div class="container">
+		<div class="row">
+			{{ range .aboutus_item }}
+			<div class="col-lg-6 item">
+				<div class="media pb-5">
+					{{with .icon}}
+					<div class="icon align-self-start mr-4">
+						<img src="{{ . }}" alt="" />
+					</div>
+					{{ end }}
+					<div class="media-body">
+						<h4 class="media-heading">{{ .title | markdownify }}</h4>
+						<p>{{ .content | markdownify }}</p>
+					</div>
+				</div>
+			</div>
+			{{ end }}
+		</div>
+	</div>
+</section>
+{{"<!-- /aboutus -->" | safeHTML}}
+{{ end }}
+{{ end }}

@@ -1,0 +1,15 @@
+############################### Banner ################################
+banner:
+  enable: true
+  bg_image: 'images/hero-bg.jpg'
+  artwork: 'images/hero.svg'
+  title: 'Because Quality Matters!'
+  content: 'Providing complete Quality Assurance and Project Management solutions based on your specific needs and requirements.'
+  button1:
+    enable: true
+    label: 'Book a meeting'
+    link: '#contact'
+  button2:
+    enable: true
+    label: 'Learn more'
+    link: '#service'

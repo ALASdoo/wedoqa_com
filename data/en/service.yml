@@ -1,0 +1,34 @@
+############################# Services ###################################
+service:
+  enable: true
+  title: Our services
+  content: |
+    We offer both a staff augmentation approach and a managed service. Service packages vary per client's needs, from manual and automated quality assurance, QA lead, project consulting to full project management.
+
+  service_item:
+    - icon: images/manual.svg
+      title: Manual testing
+      content: |
+        * Testing for web-based applications, websites, and mobile applications
+        * Cross&#8209;browser and cross&#8209;platform testing
+        * Regression, Functional, Performance, Acceptance, Compliance, UX Testing, etc.
+        * Advising developers on next&#8209;step fixes per project specifications
+        * Non&#8209;IT user testing to assess and enhance UX
+        * Testing for full project specs and region/industry compliance
+
+    - icon: images/automated.svg
+      title: Automated testing
+      content: |
+        * Rapid turnaround and increased testing coverage
+        * Extensive knowledge of automated software testing tools including Selenium, Appium, Cypress, Katalon, and more
+        * Testing within Automated Continuous Integration Servers such as Hudson, Jenkins, CruiseControl and more
+        * Setting up the initial framework
+        * Load/Stress Testing using JMeter and Selenium for real user load simulations
+
+    - icon: images/pm.svg
+      title: Project Management
+      content: |
+        * Innovative project management solutions at every stage of the development process
+        * Clear communication every step of the way
+        * Making sure your project is on time, on track, and on budget using your preferred PM workflow — Agile, Scrum, Kanban, and Traditional methodologies
+        * Working within any PM tool including Atlassian JIRA, Rally, Trello, Asana, GitHub, Gitlab, Clubhouse, TestRail, Redmine
