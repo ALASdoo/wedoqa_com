@@ -12,8 +12,8 @@ team:
     - name: Vilmos Somogyi
       image: images/team/vilmos.jpg
       categories: ['Management']
-      designation: CEO
-      content: programming in veins, UX at heart, management in mind; family winery owner, foodie, nature lover; enjoying simple things but always aiming for new challenges
+      designation: Chief Executive Officer
+      content: Programming in veins, UX at heart, management in mind; family winery owner, foodie, nature lover; enjoying simple things but always aiming for new challenges
       link: ''
 
     # team item loop
@@ -21,15 +21,23 @@ team:
       image: images/team/tibor.jpg
       categories: ['Management']
       designation: Advisor
-      content: QA Rockstar, .NET Backend Specialist, Project Manager, Coffee aficionado
+      content: Natural born COO with coding and IT background, the faster the pieces are moving around the better he performs, human psychology devotee, Coffee aficionado, MTB maniac
       link: ''
 
     # team item loop
     - name: Maja Alić Dudjik
       image: images/team/maja.jpg
       categories: ['Management']
-      designation: CFO
-      content: Non tech bug hunter, Economist, Chocolate maniac
+      designation: Chief Financial Officer
+      content: Finance specialist, Babywearing expert, Chocolate maniac, Pizzaiolo wannabe
+      link: ''
+
+    # team item loop
+    - name: Tajana Somogyi
+      image: images/team/tajana.jpg
+      categories: ['Management']
+      designation: Chief Brand Officer
+      content: Always curious about what makes people tick; intentional designer, arts and crafts enthusiast, foodie, hiker, Tribal Fusion dancer
       link: ''
 
     # team item loop
@@ -57,6 +65,16 @@ team:
       link: ''
 
     # team item loop
+    - name: Marta Gajin
+      image: images/team/marta.jpg
+      categories: ['Manual QA']
+      designation: QA Lead
+      content: |
+        'Assumption is the Mother of All F*** Ups'
+        Mr. Eugene Lewis Fordsworthe
+      link: ''
+
+    # team item loop
     - name: Aleksa Petrović
       image: images/team/aleksa.jpg
       categories: ['Manual QA']
@@ -78,6 +96,14 @@ team:
       categories: ['Automated QA']
       designation: Automated QA Engineer
       content: FPL manager, Nature and basketball lover, Biker and hiker, IT enthusiast
+      link: ''
+
+    # team item loop
+    - name: Aleksandra Krstić
+      image: images/team/anja.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: Shopaholic, extrovert, dog lover
       link: ''
 
     # team item loop
@@ -114,6 +140,14 @@ team:
       link: ''
 
     # team item loop
+    - name: Branko Pauković
+      image: images/team/branko.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: by far the best table tennis player the company has ever had; sports fan, animal and nature lover, retired javelin thrower
+      link: ''
+
+    # team item loop
     - name: Damjan Marcikić
       image: images/team/damjan.jpg
       categories: ['Manual QA']
@@ -143,14 +177,6 @@ team:
       categories: ['Manual QA']
       designation: QA Engineer
       content: MTB adventurer, MEME master, Bianconero di Belgrado, World's greatest partier
-      link: ''
-
-    # team item loop
-    - name: Dušan Kiš
-      image: images/team/dusan.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Testing, playing, partying. Sometimes all three at the same time.
       link: ''
 
     # team item loop
@@ -242,11 +268,27 @@ team:
       link: ''
 
     # team item loop
+    - name: Maja Marić
+      image: images/team/maja_maric.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: Painter, art lover, qa enthusiastic and music addict
+      link: ''
+
+    # team item loop
     - name: Marina Petrović
       image: images/team/marina.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
       content: Mountain lover, Free spirit ready for new adventures
+      link: ''
+
+    # team item loop
+    - name: Milan Guzina
+      image: images/team/milan_guzina.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: Sports lover, QA enthusiast and gaming addict
       link: ''
 
     # team item loop
@@ -282,6 +324,14 @@ team:
       link: ''
 
     # team item loop
+    - name: Miloš Rodić
+      image: images/team/milos_rodic.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: Interested in the physical world and everything in it, but lives in a virtual one.
+      link: ''
+
+    # team item loop
     - name: Miloš Jovanović
       image: images/team/milos.jpg
       categories: ['Automated QA']
@@ -295,14 +345,6 @@ team:
       categories: ['Development']
       designation: Back&#8209;End Developer
       content: Python sage, Basketball legend, Hiking lover
-      link: ''
-
-    # team item loop
-    - name: Neda Bogdanović
-      image: images/team/neda.jpg
-      categories: ['Management']
-      designation: Office Manager
-      content: Coffeeholic, popcorn lover and addicted to movies
       link: ''
 
     # team item loop
@@ -334,7 +376,15 @@ team:
       image: images/team/sandra.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: amateur singer, kettlebell enthusiast, avid meme user, binge watcher, millennial
+      content: Amateur singer, kettlebell enthusiast, avid meme user, binge watcher, millennial
+      link: ''
+
+    # team item loop
+    - name: Sanja Segedinski
+      image: images/team/sanja.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: Bugs&discounts hunter, cat lover, hedonist, nature and life enthusiast
       link: ''
 
     # team item loop
@@ -343,22 +393,6 @@ team:
       categories: ['Manual QA']
       designation: QA Engineer
       content: Dc Comics fan, Book collector, Ardent rocker, WOW lvl Pro, Actor wanna be
-      link: ''
-
-    # team item loop
-    - name: Tajana Somogyi
-      image: images/team/tajana.jpg
-      categories: ['UX']
-      designation: UI/UX Designer
-      content: passionate about UX, arts and crafts enthusiast, Audible Master, foodie, hiker, Tribal Fusion dancer
-      link: ''
-
-    # team item loop
-    - name: Tamás Kovacsics
-      image: images/team/tamas.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
-      content: E&#8209;sports fan, Gamer, PBHB Archer
       link: ''
 
     # team item loop
@@ -375,6 +409,14 @@ team:
       categories: ['Development']
       designation: Front&#8209;End Developer
       content: JS Ninja, Sci&#8209;fi and Fantasy bookworm, Biker Hiker Camper, Scout Leader, Kite Enthusiast, Board game geek
+      link: ''
+
+    # team item loop
+    - name: Uros Vidaković
+      image: images/team/uros.jpg
+      categories: ['Manual QA']
+      designation: QA Engineer
+      content: 'The least toxic DotA 2 player; not a drummer but can play drums; favorite animals: capybaras, frogs and monkeys'
       link: ''
 
     # team item loop
