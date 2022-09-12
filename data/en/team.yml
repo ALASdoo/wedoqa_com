@@ -29,7 +29,7 @@ team:
       image: images/team/maja.jpg
       categories: ['Management']
       designation: Chief Financial Officer
-      content: Finance specialist, Babywearing expert, Chocolate maniac, Pizzaiolo wannabe
+      content: Finance specialist, Babywearing expert, Chocolate maniac, Certified Neapolitan Pizzaiolo
       link: ''
 
     # team item loop
@@ -54,14 +54,6 @@ team:
       categories: ['Manual QA']
       designation: QA Lead
       content: Perfectionist in QA, loves traveling, snowboarding, HOG and ping-pong.
-      link: ''
-
-    # team item loop
-    - name: Dragan Martinović
-      image: images/team/dragan.jpg
-      categories: ['Manual QA']
-      designation: QA Lead
-      content: Music and Music Festivals addict. Video&#8209;gamer. Digital nomad, Extrovert
       link: ''
 
     # team item loop
@@ -144,7 +136,7 @@ team:
       image: images/team/branko.jpg
       categories: ['Manual QA']
       designation: QA Engineer
-      content: by far the best table tennis player the company has ever had; sports fan, animal and nature lover, retired javelin thrower
+      content: By far the best table tennis player the company has ever had; sports fan, animal and nature lover, retired javelin thrower
       link: ''
 
     # team item loop
@@ -440,7 +432,7 @@ team:
       image: images/team/zoltan.jpg
       categories: ['Development']
       designation: Back&#8209;End Developer
-      content: (e&#8209;)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
+      content: (E&#8209;)sports fan, Proud owner of a samoyed, Passionate about cooking, Physicist by nature, programmer by choice
       link: ''
 
     # team item loop
