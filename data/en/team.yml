@@ -424,7 +424,7 @@ team:
       image: images/team/valentino.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
-      content: Juventus fan, Batman fanatic, Biker, Karaoke Master, Always seeking for new challenges
+      content: Juventus fan, Batman fanatic, Biker, Karaoke Master. Everything's impossible until somebody does it.
       link: ''
 
     # team item loop
