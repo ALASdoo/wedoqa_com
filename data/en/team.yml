@@ -115,36 +115,11 @@ team:
       link: ''
 
     # team item loop
-    - name: Bojana Lazarević
-      image: images/team/bojana.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: >
-        "f u cn rd ths, u cn gt a gd jb n sftwr tstng." - Anonymus
-      link: ''
-
-    # team item loop
-    - name: Boris Janković
-      image: images/team/boris.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Sailed from the calm Mediterranean Sea into deep and dangerous QA waters. Arrr
-      link: ''
-
-    # team item loop
     - name: Branko Pauković
       image: images/team/branko.jpg
       categories: ['Manual QA']
       designation: QA Engineer
       content: By far the best table tennis player the company has ever had; sports fan, animal and nature lover, retired javelin thrower
-      link: ''
-
-    # team item loop
-    - name: Damjan Marcikić
-      image: images/team/damjan.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: QA fanatic, music engineer & songwriter, Hakuna Matata enthusiast
       link: ''
 
     # team item loop
@@ -164,35 +139,11 @@ team:
       link: ''
 
     # team item loop
-    - name: Dorijan Raštegorac
-      image: images/team/dorijan.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: MTB adventurer, MEME master, Bianconero di Belgrado, World's greatest partier
-      link: ''
-
-    # team item loop
-    - name: Dušan Vejnović
-      image: images/team/dusan_vejnovic.jpg
-      categories: ['Manual QA']
-      designation: QA Engineer
-      content: Sic Parvis Magna - Sir Francis Drake
-      link: ''
-
-    # team item loop
     - name: Eduard Pinter
       image: images/team/eduard.jpg
       categories: ['Automated QA']
       designation: Automated QA Engineer
       content: Social dancer, Gamer, Photography enthusiast, Master chef, Favorite genres to watch/read are Horror/Mystery/Thriller
-      link: ''
-
-    # team item loop
-    - name: Filip Kovač
-      image: images/team/filipk.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
-      content: Curious by nature (and by profession), bad jokes dispenser, music and literature enthusiast
       link: ''
 
     # team item loop
@@ -252,27 +203,11 @@ team:
       link: ''
 
     # team item loop
-    - name: Luka Pavlica
-      image: images/team/luka.jpg
-      categories: ['Development']
-      designation: Back&#8209;End Developer
-      content: I am constantly trying to improve myself, Big fan of martial arts and love watching good movies in free time
-      link: ''
-
-    # team item loop
     - name: Maja Marić
       image: images/team/maja_maric.jpg
       categories: ['Manual QA']
       designation: QA Engineer
       content: Painter, art lover, qa enthusiastic and music addict
-      link: ''
-
-    # team item loop
-    - name: Marina Petrović
-      image: images/team/marina.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
-      content: Mountain lover, Free spirit ready for new adventures
       link: ''
 
     # team item loop
@@ -289,22 +224,6 @@ team:
       categories: ['Development']
       designation: Front&#8209;End Developer
       content: Programmer by day, Musician by night. Street workout enthusiast
-      link: ''
-
-    # team item loop
-    - name: Milica Đuričić
-      image: images/team/milica.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
-      content: Biker, Hiker, Hedonist, Just go with the flow
-      link: ''
-
-    # team item loop
-    - name: Milorad Šegan
-      image: images/team/milorad.jpg
-      categories: ['Development']
-      designation: Back&#8209;End Developer
-      content: Biker, Hiker, Welder, Call of Duty fan
       link: ''
 
     # team item loop
@@ -353,14 +272,6 @@ team:
       categories: ['Development']
       designation: Front&#8209;End Developer
       content: Bookworm, BuJo addict
-      link: ''
-
-    # team item loop
-    - name: Predrag Đilas
-      image: images/team/predrag.jpg
-      categories: ['Automated QA']
-      designation: Automated QA Engineer
-      content: Fantasy and Sci-fi lover, social-media and metaverse addict, an adventurer
       link: ''
 
     # team item loop
