@@ -27,8 +27,7 @@
 {{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
 <script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
 
-<script type="text/javascript" src="https://secure.intuitive-intuition.com/js/785753.js" ></script>
-<noscript><img alt="" src="https://secure.intuitive-intuition.com/785753.png" style="display:none;" /></noscript>
+<script> (function(ss,ex){ window.ldfdr=window.ldfdr||function(){(ldfdr._q=ldfdr._q||[]).push([].slice.call(arguments));}; (function(d,s){ fs=d.getElementsByTagName(s)[0]; function ce(src){ var cs=d.createElement(s); cs.src=src; cs.async=1; fs.parentNode.insertBefore(cs,fs); }; ce('https://sc.lfeeder.com/lftracker_v1_'+ss+(ex?'_'+ex:'')+'.js'); })(document,'script'); })('3P1w24dwjQJ7mY5n'); </script>
 
 <!-- cookie -->
 {{ if site.Params.cookies.enable }}
