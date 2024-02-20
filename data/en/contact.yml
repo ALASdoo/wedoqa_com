@@ -20,7 +20,7 @@ contact:
   # Contact form
   contact_form:
     enable: true
-    form_action: 'https://formspree.io/f/info@wedoqa.com' #contact form works with https://formspree.io
+    form_action: 'https://formspree.io/f/mzbnrwoj' #contact form works with https://formspree.io
     name: 'Your Name'
     email: 'Your Email'
     subject: 'Subject'
