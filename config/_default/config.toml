@@ -3,8 +3,6 @@ baseURL = "https://www.wedoqa.com/"
 # baseURL = "https://wedoqa.netlify.com/"
 title = "WeDoQA by ALAS d.o.o."
 theme = "meghna-hugo"
-# post pagination
-paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -137,9 +135,12 @@ map_marker = "images/marker.png"
 
 
 ################################ English Language ########################
+[pagination]
+pagerSize = 6
+
 [Languages.en]
-languageName = "En"
-languageCode = "en-us"
+label = "En"
+locale = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
